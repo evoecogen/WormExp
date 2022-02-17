@@ -1,0 +1,50 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+inst-1	WBGene00015499	C06A5.1	CDS	ints-1	WBGene00015499	C06A5.1	CDS
+srt-58	WBGene00016233	C29G2.5	CDS	nhr-290	WBGene00016233	C29G2.5	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	cubn-1	WBGene00013855	ZC116.3	CDS
+.	.	.	.	ints-2	WBGene00013877	ZC376.6	CDS
+.	.	.	.	ints-4	WBGene00012234	W04A4.5	CDS
+.	.	.	.	ints-5	WBGene00013075	Y51A2D.7	CDS
+.	.	.	.	ints-7	WBGene00008361	D1043.1	CDS
+.	.	.	.	ints-8	WBGene00013021	Y48G10A.4	CDS
+.	.	.	.	iscu-1	WBGene00012885	Y45F10D.4	CDS
+.	.	.	.	metl-1	WBGene00012205	W02B12.10	CDS
+.	.	.	.	metl-17	WBGene00009305	F32A7.4	CDS
+.	.	.	.	metl-18	WBGene00010450	K01A11.2	CDS
+.	.	.	.	metl-5	WBGene00008008	C38D4.9	CDS
+.	.	.	.	metl-6	WBGene00014205	ZK1058.5	CDS
+.	.	.	.	metl-9	WBGene00020199	T03G11.6	CDS
+.	.	.	.	nduf-9	WBGene00021800	Y53G8AL.2	CDS
+.	.	.	.	nfs-1	WBGene00015021	B0205.6	CDS
+.	.	.	.	nhr-291	WBGene00045515	ZK1037.13	CDS
+.	.	.	.	nsun-2	WBGene00021686	Y48G8AL.5	CDS
+.	.	.	.	prcc-1	WBGene00008034	C39E9.11	CDS
+.	.	.	.	rcs-1	WBGene00016190	C28G1.5	CDS
+.	.	.	.	scb-1	WBGene00010407	H19N07.3	CDS
+.	.	.	.	tmem-258	WBGene00021960	Y57E12AM.1	CDS
+.	.	.	.	tnsl-1	WBGene00010498	K02B12.5	CDS
+.	.	.	.	tres-1	WBGene00022750	ZK484.4	CDS
+.	.	.	.	txbp-3	WBGene00016678	C45G9.7	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+col-182	WBGene00000755	R09A8.4	CDS	col-182	WBGene00000755	R09A8.4	Pseudogene
+fbxa-17	WBGene00018691	F52D2.10	CDS	fbxa-17	WBGene00018691	F52D2.10	Pseudogene
+fbxa-46	WBGene00018690	F52D2.8	CDS	fbxa-46	WBGene00018690	F52D2.8	Pseudogene
+math-27	WBGene00018101	F36H5.2	CDS	math-27	WBGene00018101	F36H5.2	Pseudogene
+str-122	WBGene00006173	W03D2.10	CDS	str-122	WBGene00006173	W03D2.10	Pseudogene
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+let-7	WBGene00002285	C05G5.6.1	Transcript	let-7	WBGene00002285	C05G5.6	Transcript
+

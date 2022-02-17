@@ -1,0 +1,55 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+bath-43	WBGene00011815	T16H12.5	CDS	spop-1	WBGene00011815	T16H12.5	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	adh-5	WBGene00019240	H24K24.3	CDS
+.	.	.	.	argn-1	WBGene00020658	T21F4.1	CDS
+.	.	.	.	casc-3	WBGene00012343	W08E3.2	CDS
+.	.	.	.	ctnb-1	WBGene00019711	M01E11.2	CDS
+.	.	.	.	cwf-19L1	WBGene00017534	F17A9.2	CDS
+.	.	.	.	cwf-19L2	WBGene00015156	B0361.2	CDS
+.	.	.	.	der-2	WBGene00020109	R151.6	CDS
+.	.	.	.	dib-1	WBGene00235102	Y54G2A.75	CDS
+.	.	.	.	gpch-1	WBGene00011109	R07E5.1	CDS
+.	.	.	.	kin-35	WBGene00019769	M04F3.3	CDS
+.	.	.	.	lab-2	WBGene00018954	F56C9.11	CDS
+.	.	.	.	luc-7L	WBGene00015207	B0495.8	CDS
+.	.	.	.	luc-7L3	WBGene00016811	C50D2.8	CDS
+.	.	.	.	mfsd-10	WBGene00017339	F10D7.2	CDS
+.	.	.	.	mfsd-11	WBGene00010925	M153.2	CDS
+.	.	.	.	mfsd-12	WBGene00017530	F16H11.1	CDS
+.	.	.	.	mfsd-13.1	WBGene00017886	F28B3.5	CDS
+.	.	.	.	mfsd-13.2	WBGene00016174	C27H5.4	CDS
+.	.	.	.	mfsd-8	WBGene00021814	Y53G8AR.7	CDS
+.	.	.	.	miga-1	WBGene00010465	K01D12.6	CDS
+.	.	.	.	pmlr-1	WBGene00016323	C32E8.5	CDS
+.	.	.	.	prp-18	WBGene00009320	F32B6.3	CDS
+.	.	.	.	sde-2	WBGene00009996	F53F4.14	CDS
+.	.	.	.	slc-36.1	WBGene00012804	Y43F4B.7	CDS
+.	.	.	.	sluh-7	WBGene00010629	K07C5.6	CDS
+.	.	.	.	sysm-1	WBGene00011979	T24B8.5	CDS
+.	.	.	.	tebp-1	WBGene00011047	R06A4.2	CDS
+.	.	.	.	tebp-2	WBGene00020464	T12E12.3	CDS
+.	.	.	.	tmem-189	WBGene00013136	Y53C10A.5	CDS
+.	.	.	.	wbp-11	WBGene00009364	F33H1.3	CDS
+.	.	.	.	wbp-2	WBGene00008404	D2013.6	CDS
+.	.	.	.	wbp-4	WBGene00010159	F56G4.4	CDS
+.	.	.	.	wdr-83	WBGene00018014	F33G12.2	CDS
+.	.	.	.	yju-2	WBGene00018149	F37C12.1	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+mir-8192	WBGene00199918	F22D3.9	Transcript	mir-8192	WBGene00199918	F22D3.9.1	Transcript
+mir-8209	WBGene00195833	T22C1.13.1	Transcript	mir-8209	WBGene00195833	T22C1.13	Transcript
+

@@ -1,0 +1,63 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+hrp-1	WBGene00001999	F42A6.7	CDS	hrpa-1	WBGene00001999	F42A6.7	CDS
+hrp-2	WBGene00002000	F58D5.1	CDS	hrpr-1	WBGene00002000	F58D5.1	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	affl-1	WBGene00021911	Y55B1BR.1	CDS
+.	.	.	.	affl-2	WBGene00021912	Y55B1BR.2	CDS
+.	.	.	.	dhcr-24	WBGene00018718	F52H2.6	CDS
+.	.	.	.	hrpa-2	WBGene00019249	H28G03.1	CDS
+.	.	.	.	hrpk-2	WBGene00015557	C06G4.1	CDS
+.	.	.	.	mtpn-1	WBGene00016616	C43H6.3	CDS
+.	.	.	.	popl-1	WBGene00015486	C05D11.9	CDS
+.	.	.	.	popl-4	WBGene00007603	C15C6.4	CDS
+.	.	.	.	popl-5	WBGene00013422	Y66A7A.2	CDS
+.	.	.	.	popl-7	WBGene00013373	Y62E10A.2	CDS
+.	.	.	.	seip-1	WBGene00019808	R01B10.6	CDS
+.	.	.	.	sel-15	WBGene00016030	C24A1.3	CDS
+.	.	.	.	simr-1	WBGene00015504	C06A5.6	CDS
+.	.	.	.	tmem-208	WBGene00011033	R05D11.5	CDS
+.	.	.	.	vmo-1	WBGene00012631	Y38H6C.19	CDS
+.	.	.	.	znf-598	WBGene00016888	C52E12.1	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+btb-13	WBGene00022561	ZC204.11	CDS	btb-13	WBGene00022561	ZC204.11	Pseudogene
+chil-20	WBGene00011163	R09D1.7	CDS	chil-20	WBGene00011163	R09D1.7	Pseudogene
+clec-44	WBGene00019928	R07C3.12	CDS	clec-44	WBGene00019928	R07C3.12	Pseudogene
+enu-3.4	WBGene00021034	W05F2.2	CDS	enu-3.4	WBGene00021034	W05F2.2	Pseudogene
+fbxb-32	WBGene00019798	M151.6	CDS	fbxb-32	WBGene00019798	M151.6	Pseudogene
+fbxb-36	WBGene00017211	F07E5.6	CDS	fbxb-36	WBGene00017211	F07E5.6	Pseudogene
+ferl-1	WBGene00020262	T05E8.1	CDS	ferl-1	WBGene00020262	T05E8.1	Pseudogene
+gcy-2	WBGene00001529	R134.2	CDS	gcy-2	WBGene00001529	R134.2	Pseudogene
+hpa-2	WBGene00020432	T11F1.8	CDS	hpa-2	WBGene00020432	T11F1.8	Pseudogene
+ins-38	WBGene00002121	C17C3.20	CDS	ins-38	WBGene00002121	C17C3.20	Pseudogene
+irld-37	WBGene00019038	F58E1.7	CDS	irld-37	WBGene00019038	F58E1.7	Pseudogene
+irld-5	WBGene00017454	F14D2.6	CDS	irld-5	WBGene00017454	F14D2.6	Pseudogene
+kin-23	WBGene00002205	W04G5.6	CDS	kin-23	WBGene00002205	W04G5.6	Pseudogene
+kin-6	WBGene00002194	ZK20.2	CDS	kin-6	WBGene00002194	ZK20.2	Pseudogene
+math-17	WBGene00015833	C16C4.9	CDS	math-17	WBGene00015833	C16C4.9	Pseudogene
+math-2	WBGene00015606	C08F1.1	CDS	math-2	WBGene00015606	C08F1.1	Pseudogene
+math-29	WBGene00018441	F45C12.10	CDS	math-29	WBGene00018441	F45C12.10	Pseudogene
+math-50	WBGene00022691	ZK250.8	CDS	math-50	WBGene00022691	ZK250.8	Pseudogene
+mltn-4	WBGene00012200	W02B8.4	CDS	mltn-4	WBGene00012200	W02B8.4	Pseudogene
+nep-19	WBGene00020292	T06D4.3	CDS	nep-19	WBGene00020292	T06D4.3	Pseudogene
+nep-7	WBGene00017552	F18A12.3	CDS	nep-7	WBGene00017552	F18A12.3	Pseudogene
+plg-1	WBGene00004041	F44E2.11	Pseudogene	plg-1	WBGene00004041	F44E2.11	CDS
+ptc-2	WBGene00004209	F21H12.4	CDS	ptc-2	WBGene00004209	F21H12.4	Pseudogene
+snpc-3.3	WBGene00021662	Y48G1BL.1	CDS	snpc-3.3	WBGene00021662	Y48G1BL.1	Pseudogene
+srb-2	WBGene00005067	C27D6.9	CDS	srb-2	WBGene00005067	C27D6.9	Pseudogene
+wago-11	WBGene00021711	Y49F6A.1	CDS	wago-11	WBGene00021711	Y49F6A.1	Pseudogene
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+let-7	WBGene00002285	C05G5.6.1	Transcript	let-7	WBGene00002285	C05G5.6	Transcript
+

@@ -1,0 +1,86 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+acox-1	WBGene00008564	F08A8.1	CDS	acox-1.1	WBGene00008564	F08A8.1	CDS
+acox-2	WBGene00008565	F08A8.2	CDS	acox-1.2	WBGene00008565	F08A8.2	CDS
+acox-4	WBGene00008567	F08A8.4	CDS	acox-1.4	WBGene00008567	F08A8.4	CDS
+acox-5	WBGene00008167	C48B4.1	CDS	acox-1.5	WBGene00008167	C48B4.1	CDS
+acox-6	WBGene00019060	F58F9.7	CDS	acox-3	WBGene00019060	F58F9.7	CDS
+hke-4.1	WBGene00044067	T28F3.3	CDS	zipt-7.1	WBGene00044067	T28F3.3	CDS
+hke-4.2	WBGene00006494	H13N06.5	CDS	zipt-7.2	WBGene00006494	H13N06.5	CDS
+iftb-1	WBGene00010560	K04G2.1	CDS	eif-2beta	WBGene00010560	K04G2.1	CDS
+nhr-33	WBGene00013976	ZK455.6	CDS	hizr-1	WBGene00013976	ZK455.6	CDS
+nmur-4	WBGene00016265	C30F12.6	CDS	trhr-1	WBGene00016265	C30F12.6	CDS
+ppp-1	WBGene00004090	C15F1.4	CDS	eif-2Bgamma	WBGene00004090	C15F1.4	CDS
+prmt-3	WBGene00011939	T23B5.1	CDS	prmt-9	WBGene00011939	T23B5.1	CDS
+tag-140	WBGene00006486	T11F9.2	CDS	zipt-21	WBGene00006486	T11F9.2	CDS
+tag-141	WBGene00006487	C30H6.2	CDS	zipt-22	WBGene00006487	C30H6.2	CDS
+tag-173	WBGene00006518	F27D4.5	CDS	bckd-1B	WBGene00006518	F27D4.5	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	acox-1.3	WBGene00008566	F08A8.3	CDS
+.	.	.	.	acox-1.6	WBGene00010336	F59F4.1	CDS
+.	.	.	.	aipr-1	WBGene00016966	C56C10.10	CDS
+.	.	.	.	bckd-1A	WBGene00012713	Y39E4A.3	CDS
+.	.	.	.	csa-1	WBGene00008403	D2013.3	CDS
+.	.	.	.	dlat-2	WBGene00007824	C30H6.7	CDS
+.	.	.	.	dus-2	WBGene00013201	Y54E5A.6	CDS
+.	.	.	.	eif-2A	WBGene00008480	E04D5.1	CDS
+.	.	.	.	eif-2Balpha	WBGene00014221	ZK1098.4	CDS
+.	.	.	.	eif-2Bbeta	WBGene00012950	Y47H9C.7	CDS
+.	.	.	.	eif-2Bdelta	WBGene00008670	F11A3.2	CDS
+.	.	.	.	eif-2Bepsilon	WBGene00008428	D2085.3	CDS
+.	.	.	.	eif-2D	WBGene00016113	C25H3.4	CDS
+.	.	.	.	eif-2alpha	WBGene00021351	Y37E3.10	CDS
+.	.	.	.	eif-2gamma	WBGene00021466	Y39G10AR.8	CDS
+.	.	.	.	eif-3.L	WBGene00015920	C17G10.9	CDS
+.	.	.	.	famh-161	WBGene00012626	Y38H6C.14	CDS
+.	.	.	.	gcna-1	WBGene00022694	ZK328.4	CDS
+.	.	.	.	gcsh-2	WBGene00009918	F52A8.5	CDS
+.	.	.	.	gldc-1	WBGene00020022	R12C12.1	CDS
+.	.	.	.	ilc-17.1	WBGene00011937	T22H6.1	CDS
+.	.	.	.	ilcr-1	WBGene00013415	Y64G10A.6	CDS
+.	.	.	.	ilcr-2	WBGene00018960	F56D1.2	CDS
+.	.	.	.	kdp-1	WBGene00013463	Y67H2A.5	CDS
+.	.	.	.	maph-9	WBGene00016397	C34D4.1	CDS
+.	.	.	.	mlck-1	WBGene00013869	ZC373.4	CDS
+.	.	.	.	mlst-8	WBGene00015697	C10H11.8	CDS
+.	.	.	.	mpc-1	WBGene00011119	R07E5.13	CDS
+.	.	.	.	mpc-2	WBGene00018765	F53F10.3	CDS
+.	.	.	.	ogdh-2	WBGene00014098	ZK836.2	CDS
+.	.	.	.	pdpr-1	WBGene00013718	Y106G6H.5	CDS
+.	.	.	.	rpi-1	WBGene00012332	W07G1.5	CDS
+.	.	.	.	selt-1.1	WBGene00007955	C35C5.3	CDS
+.	.	.	.	selt-1.2	WBGene00009238	F28H7.4	CDS
+.	.	.	.	sftb-2	WBGene00021004	W03F9.10	CDS
+.	.	.	.	soem-1	WBGene00013603	Y87G2A.17	CDS
+.	.	.	.	timm-17B.1	WBGene00017119	E04A4.5	CDS
+.	.	.	.	timm-17B.2	WBGene00017069	D2096.1	CDS
+.	.	.	.	uvs-1	WBGene00022812	ZK742.2	CDS
+.	.	.	.	vpat-1	WBGene00018860	F55A4.8	CDS
+.	.	.	.	zipt-1	WBGene00009286	F31C3.4	CDS
+.	.	.	.	zipt-11	WBGene00019077	F59A3.4	CDS
+.	.	.	.	zipt-13	WBGene00007591	C14H10.1	CDS
+.	.	.	.	zipt-2.1	WBGene00014669	C06G8.3	CDS
+.	.	.	.	zipt-2.2	WBGene00017936	F30B5.7	CDS
+.	.	.	.	zipt-2.3	WBGene00013207	Y54G9A.4	CDS
+.	.	.	.	zipt-2.4	WBGene00018897	F55F8.9	CDS
+.	.	.	.	zipt-20	WBGene00021936	Y55F3BL.2	CDS
+.	.	.	.	zipt-3	WBGene00015940	C18A3.2	CDS
+.	.	.	.	zipt-9	WBGene00011329	T01D3.5	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+clec-120	WBGene00017917	F29A7.7	CDS	clec-120	WBGene00017917	F29A7.7	Pseudogene
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+let-7	WBGene00002285	C05G5.6.1	Transcript	let-7	WBGene00002285	C05G5.6.2	Transcript
+mir-8210	WBGene00201935	C54G10.6	Transcript	mir-8210	WBGene00201935	C54G10.6.1	Transcript
+

@@ -1,0 +1,95 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+cest-1	WBGene00011362	T02B5.1	CDS	cest-1.1	WBGene00011362	T02B5.1	CDS
+cyp-34A4	WBGene00020386	T09H2.1	CDS	dach-1	WBGene00020386	T09H2.1	CDS
+dic-1	WBGene00000994	F08B4.1	CDS	ints-6	WBGene00000994	F08B4.1	CDS
+emo-1	WBGene00001303	F32D8.6	CDS	sec-61.G	WBGene00001303	F32D8.6	CDS
+sec-61	WBGene00013311	Y57G11C.15	CDS	sec-61.A	WBGene00013311	Y57G11C.15	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	aatf-1	WBGene00022269	Y73E7A.2	CDS
+.	.	.	.	adk-1	WBGene00011128	R07H5.8	CDS
+.	.	.	.	cest-1.2	WBGene00011364	T02B5.3	CDS
+.	.	.	.	cest-10	WBGene00016595	C42D4.2	CDS
+.	.	.	.	cest-12	WBGene00013540	Y75B8A.3	CDS
+.	.	.	.	cest-13	WBGene00010116	F55F3.2	CDS
+.	.	.	.	cest-15	WBGene00012202	W02B12.4	Pseudogene
+.	.	.	.	cest-16	WBGene00020330	T07H6.1	CDS
+.	.	.	.	cest-17	WBGene00019477	K07C11.4	CDS
+.	.	.	.	cest-19	WBGene00020125	R173.3	CDS
+.	.	.	.	cest-2.1	WBGene00013875	ZC376.3	CDS
+.	.	.	.	cest-2.2	WBGene00013874	ZC376.2	CDS
+.	.	.	.	cest-2.3	WBGene00013873	ZC376.1	CDS
+.	.	.	.	cest-24	WBGene00020891	T28C12.4	CDS
+.	.	.	.	cest-25	WBGene00022178	Y71H2AM.13	CDS
+.	.	.	.	cest-26	WBGene00017478	F15A8.6	CDS
+.	.	.	.	cest-27	WBGene00018958	F56C11.6	CDS
+.	.	.	.	cest-28	WBGene00019654	K11G9.3	CDS
+.	.	.	.	cest-29	WBGene00017205	F07C4.12	Pseudogene
+.	.	.	.	cest-3	WBGene00008451	E01G6.3	CDS
+.	.	.	.	cest-30	WBGene00015071	B0238.7	CDS
+.	.	.	.	cest-31	WBGene00019653	K11G9.2	CDS
+.	.	.	.	cest-32	WBGene00016862	C52A10.1	CDS
+.	.	.	.	cest-33	WBGene00017431	F13H6.3	CDS
+.	.	.	.	cest-34	WBGene00019652	K11G9.1	CDS
+.	.	.	.	cest-35.1	WBGene00015067	B0238.1	CDS
+.	.	.	.	cest-35.2	WBGene00016863	C52A10.2	CDS
+.	.	.	.	cest-4	WBGene00015930	C17H12.4	CDS
+.	.	.	.	cest-5.1	WBGene00015279	C01B10.4	CDS
+.	.	.	.	cest-5.2	WBGene00015284	C01B10.10	CDS
+.	.	.	.	cest-6	WBGene00020688	T22D1.11	CDS
+.	.	.	.	cest-7	WBGene00007693	C23H4.4	CDS
+.	.	.	.	cest-8	WBGene00007691	C23H4.2	CDS
+.	.	.	.	cest-9.1	WBGene00007692	C23H4.3	CDS
+.	.	.	.	cest-9.2	WBGene00007695	C23H4.7	CDS
+.	.	.	.	daf-42	WBGene00021496	Y40C5A.3	CDS
+.	.	.	.	exc-12	WBGene00011476	T05D4.3	CDS
+.	.	.	.	exc-13	WBGene00015393	C03G6.5	CDS
+.	.	.	.	exc-14	WBGene00019649	K11D12.9	CDS
+.	.	.	.	exc-15	WBGene00020369	T08H10.1	CDS
+.	.	.	.	fbxc-58	WBGene00007506	C10C5.2	CDS
+.	.	.	.	gyf-1	WBGene00016002	C18H9.3	CDS
+.	.	.	.	ints-11	WBGene00008642	F10B5.8	CDS
+.	.	.	.	ints-13	WBGene00019822	R02D3.4	CDS
+.	.	.	.	ints-3	WBGene00022360	Y92H12A.4	CDS
+.	.	.	.	ints-9	WBGene00017608	F19F10.12	CDS
+.	.	.	.	mek-5	WBGene00017098	E02D9.1	CDS
+.	.	.	.	mekk-3	WBGene00013694	Y106G6A.1	CDS
+.	.	.	.	nadk-1	WBGene00022307	Y77E11A.2	CDS
+.	.	.	.	nadk-2	WBGene00012463	Y17G7B.10	CDS
+.	.	.	.	nip-1	WBGene00018386	F43C11.9	CDS
+.	.	.	.	nip-2	WBGene00011981	T24C2.2	CDS
+.	.	.	.	sec-61.B	WBGene00021427	Y38F2AR.9	CDS
+.	.	.	.	serp-1.1	WBGene00010337	F59F4.2	CDS
+.	.	.	.	serp-1.2	WBGene00020374	T09A12.5	CDS
+.	.	.	.	shpk-1	WBGene00012017	T25C8.1	CDS
+.	.	.	.	slc-9B.1	WBGene00009617	F41E7.1	CDS
+.	.	.	.	slc-9B.2	WBGene00010214	F57G8.5	CDS
+.	.	.	.	suex-1	WBGene00017396	F12A10.7	CDS
+.	.	.	.	suex-2	WBGene00008271	C53B4.1	CDS
+.	.	.	.	syp-5	WBGene00021832	Y54E10A.12	CDS
+.	.	.	.	syp-6	WBGene00019002	F57B10.4	CDS
+.	.	.	.	taap-1	WBGene00010879	M05D6.6	CDS
+.	.	.	.	unk-1	WBGene00016407	C34D10.2	CDS
+.	.	.	.	zzz-1	WBGene00009333	F32D8.10	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+frm-9	WBGene00001495	F31B12.3	CDS	.	.	.	.
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+arrd-27	WBGene00009853	F48F7.8	CDS	arrd-27	WBGene00009853	F48F7.8	Pseudogene
+fbxc-37	WBGene00017942	F31A9.4	CDS	fbxc-37	WBGene00017942	F31A9.4	Pseudogene
+fbxc-38	WBGene00015321	C02B8.2	CDS	fbxc-38	WBGene00015321	C02B8.2	Pseudogene
+gcp-2.3	WBGene00044121	C35C5.11	CDS	gcp-2.3	WBGene00044121	C35C5.11	Pseudogene
+pqn-11	WBGene00004103	C09G1.1	CDS	pqn-11	WBGene00004103	C09G1.1	Pseudogene
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+let-7	WBGene00002285	C05G5.6.1	Transcript	let-7	WBGene00002285	C05G5.6	Transcript
+

@@ -1,0 +1,40 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+atf-5	WBGene00000221	T04C10.4	CDS	atf-4	WBGene00000221	T04C10.4	CDS
+rad-54	WBGene00004298	W06D4.6	CDS	rad-54.L	WBGene00004298	W06D4.6	CDS
+tag-232	WBGene00044077	T18H9.7	CDS	pacs-1	WBGene00044077	T18H9.7	CDS
+tag-261	WBGene00020300	T07A9.13	CDS	ssna-1	WBGene00020300	T07A9.13	CDS
+tiar-3	WBGene00007396	C07A4.1	CDS	rnp-9	WBGene00007396	C07A4.1	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	gpdh-3	WBGene00012031	T25G3.4	CDS
+.	.	.	.	ivph-3	WBGene00022067	Y67D8C.3	CDS
+.	.	.	.	paic-1	WBGene00015116	B0286.3	CDS
+.	.	.	.	pcdr-1	WBGene00010329	F59D12.1	CDS
+.	.	.	.	pcmd-1	WBGene00007640	C17D12.7	CDS
+.	.	.	.	pxmp-4	WBGene00017574	F18F11.1	CDS
+.	.	.	.	rad-54.B	WBGene00013792	Y116A8C.13	CDS
+.	.	.	.	scyl-1	WBGene00012337	W07G4.3	CDS
+.	.	.	.	slc-30A5	WBGene00013668	Y105E8A.3	CDS
+.	.	.	.	slc-30A9	WBGene00022174	Y71H2AM.9	CDS
+.	.	.	.	sprp-4	WBGene00016189	C28G1.4	CDS
+.	.	.	.	szy-5	WBGene00016154	C27A12.2	CDS
+.	.	.	.	tdpo-1	WBGene00018678	F52C12.1	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+ostf-4	WBGene00011557	T07A5.4	CDS	ostf-4	WBGene00011558	T07A5.5	CDS
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+irld-13	WBGene00019845	R03G5.3	CDS	irld-13	WBGene00019845	R03G5.3	Pseudogene
+set-33	WBGene00022431	Y108F1.3	CDS	set-33	WBGene00022431	Y108F1.3	Pseudogene
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+let-7	WBGene00002285	C05G5.6.1	Transcript	let-7	WBGene00002285	C05G5.6	Transcript
+

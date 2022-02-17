@@ -1,0 +1,39 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+bubl-1	WBGene00015791	C15C7.5	CDS	bbln-1	WBGene00015791	C15C7.5	CDS
+pqn-44	WBGene00004131	F55A12.9	CDS	tent-5	WBGene00004131	F55A12.9	CDS
+tag-175	WBGene00006520	D2013.10	CDS	egli-1	WBGene00006520	D2013.10	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	ccct-1	WBGene00012578	Y37H9A.3	CDS
+.	.	.	.	ceph-41	WBGene00249817	F42G8.19	CDS
+.	.	.	.	ddx-10	WBGene00021277	Y23H5B.6	CDS
+.	.	.	.	ecps-1	WBGene00008422	D2045.2	CDS
+.	.	.	.	ecps-2	WBGene00010364	H04D03.3	CDS
+.	.	.	.	gft-2H4	WBGene00013529	Y73F8A.24	CDS
+.	.	.	.	lotr-1	WBGene00008385	D1081.7	CDS
+.	.	.	.	nduf-11	WBGene00007192	B0491.5	CDS
+.	.	.	.	nish-1	WBGene00008750	F13E9.1	CDS
+.	.	.	.	pei-1	WBGene00009185	F27C8.5	CDS
+.	.	.	.	phm-2	WBGene00009314	F32B4.4	CDS
+.	.	.	.	wdr-62	WBGene00019237	H24G06.1	CDS
+.	.	.	.	znf-236	WBGene00021689	Y48G8AL.10	CDS
+.	.	.	.	znf-593	WBGene00013236	Y56A3A.18	CDS
+.	.	.	.	znf-622	WBGene00015809	C16A3.4	CDS
+.	.	.	.	znf-782	WBGene00021931	Y55F3AM.14	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+fbxa-21	WBGene00022487	Y119D3B.9	CDS	fbxa-21	WBGene00022487	Y119D3B.9	Pseudogene
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+let-7	WBGene00002285	C05G5.6.1	Transcript	let-7	WBGene00002285	C05G5.6	Transcript
+

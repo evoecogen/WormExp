@@ -1,0 +1,100 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+dct-3	WBGene00008301	C54D10.7	CDS	pals-39	WBGene00008301	C54D10.7	CDS
+drd-2	WBGene00018237	F40F4.6	CDS	irg-7	WBGene00018237	F40F4.6	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	asah-2	WBGene00009192	F27E5.1	CDS
+.	.	.	.	ate-1	WBGene00010615	K07A1.9	CDS
+.	.	.	.	cerk-1	WBGene00020398	T10B11.2	CDS
+.	.	.	.	chst-1	WBGene00008050	C41C4.1	CDS
+.	.	.	.	crf-1	WBGene00019160	H05L03.3	CDS
+.	.	.	.	efhc-1	WBGene00013028	Y49A10A.1	CDS
+.	.	.	.	endu-1	WBGene00010488	K02A11.3	CDS
+.	.	.	.	endu-2	WBGene00019779	M60.2	CDS
+.	.	.	.	hach-1	WBGene00017301	F09F7.4	CDS
+.	.	.	.	hphd-1	WBGene00012608	Y38F1A.6	CDS
+.	.	.	.	irg-4	WBGene00008584	F08G5.6	CDS
+.	.	.	.	irg-5	WBGene00009429	F35E12.5	CDS
+.	.	.	.	irg-6	WBGene00007864	C32H11.1	CDS
+.	.	.	.	mdt-28	WBGene00009223	F28F8.5	CDS
+.	.	.	.	memi-1	WBGene00003216	Y17G9B.9	CDS
+.	.	.	.	memi-2	WBGene00013380	Y62E10A.14	CDS
+.	.	.	.	memi-3	WBGene00010353	H02I12.5	CDS
+.	.	.	.	nlp-43	WBGene00016684	C45G9.13	CDS
+.	.	.	.	nlp-45	WBGene00020136	T01B6.4	CDS
+.	.	.	.	nlp-48	WBGene00008002	C38C10.6	CDS
+.	.	.	.	nlp-50	WBGene00018298	F41G3.1	CDS
+.	.	.	.	nlp-51	WBGene00011997	T24F1.5	CDS
+.	.	.	.	nlp-52	WBGene00018363	F42G9.4	CDS
+.	.	.	.	nlp-53	WBGene00012440	Y12A6A.2	CDS
+.	.	.	.	nlp-54	WBGene00007827	C30H6.10	CDS
+.	.	.	.	nlp-55	WBGene00008820	F14F11.2	CDS
+.	.	.	.	nlp-56	WBGene00013334	Y57G11C.45	CDS
+.	.	.	.	nlp-57	WBGene00008589	F08G12.8	CDS
+.	.	.	.	nrps-1	WBGene00013440	Y66D12A.14	CDS
+.	.	.	.	pals-1	WBGene00008858	F15D3.8	CDS
+.	.	.	.	pals-10	WBGene00044711	C17H1.11	CDS
+.	.	.	.	pals-11	WBGene00044708	C17H1.13	CDS
+.	.	.	.	pals-12	WBGene00044709	C17H1.14	CDS
+.	.	.	.	pals-13	WBGene00012505	Y26D4A.8	CDS
+.	.	.	.	pals-14	WBGene00009061	F22G12.1	CDS
+.	.	.	.	pals-15	WBGene00044712	F22G12.8	Pseudogene
+.	.	.	.	pals-16	WBGene00022337	Y82E9BR.4	CDS
+.	.	.	.	pals-17	WBGene00022346	Y82E9BR.13	CDS
+.	.	.	.	pals-18	WBGene00022353	Y82E9BR.21	CDS
+.	.	.	.	pals-19	WBGene00044761	Y82E9BR.23	CDS
+.	.	.	.	pals-2	WBGene00007656	C17H1.3	CDS
+.	.	.	.	pals-20	WBGene00194746	Y82E9BR.25	CDS
+.	.	.	.	pals-21	WBGene00255597	Y82E9BR.32	CDS
+.	.	.	.	pals-22	WBGene00016216	C29F9.1	CDS
+.	.	.	.	pals-23	WBGene00016218	C29F9.3	CDS
+.	.	.	.	pals-24	WBGene00016219	C29F9.4	CDS
+.	.	.	.	pals-25	WBGene00020540	T17A3.2	CDS
+.	.	.	.	pals-26	WBGene00007131	B0284.1	CDS
+.	.	.	.	pals-27	WBGene00007132	B0284.2	CDS
+.	.	.	.	pals-28	WBGene00007134	B0284.4	CDS
+.	.	.	.	pals-29	WBGene00012091	T27E7.6	CDS
+.	.	.	.	pals-3	WBGene00007657	C17H1.4	CDS
+.	.	.	.	pals-30	WBGene00013294	Y57G11B.1	CDS
+.	.	.	.	pals-31	WBGene00018614	F48G7.2	CDS
+.	.	.	.	pals-32	WBGene00016281	C31B8.4	CDS
+.	.	.	.	pals-33	WBGene00021081	W08A12.4	CDS
+.	.	.	.	pals-34	WBGene00017823	F26D11.6	CDS
+.	.	.	.	pals-35	WBGene00045392	F26D11.12	CDS
+.	.	.	.	pals-36	WBGene00044787	C54D10.12	Pseudogene
+.	.	.	.	pals-37	WBGene00138721	C54D10.14	CDS
+.	.	.	.	pals-38	WBGene00008302	C54D10.8	CDS
+.	.	.	.	pals-4	WBGene00007658	C17H1.5	CDS
+.	.	.	.	pals-5	WBGene00007659	C17H1.6	CDS
+.	.	.	.	pals-6	WBGene00007660	C17H1.7	CDS
+.	.	.	.	pals-7	WBGene00007661	C17H1.8	CDS
+.	.	.	.	pals-8	WBGene00007662	C17H1.9	CDS
+.	.	.	.	pals-9	WBGene00044237	C17H1.10	CDS
+.	.	.	.	pcrg-1	WBGene00017122	E04F6.2	CDS
+.	.	.	.	pdxk-1	WBGene00019008	F57C9.1	CDS
+.	.	.	.	pks-1	WBGene00016558	C41A3.1	CDS
+.	.	.	.	rbm-5	WBGene00020346	T08B2.5	CDS
+.	.	.	.	rege-1	WBGene00016260	C30F12.1	CDS
+.	.	.	.	ule-1	WBGene00021005	W03F11.1	CDS
+.	.	.	.	ule-2	WBGene00045038	F13G11.3	CDS
+.	.	.	.	ule-3	WBGene00008378	D1054.11	CDS
+.	.	.	.	ule-4	WBGene00007458	C08F11.11	CDS
+.	.	.	.	ule-5	WBGene00013394	Y62H9A.6	CDS
+.	.	.	.	wdr-4	WBGene00022420	Y102E9.2	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+sre-10	WBGene00017330	F10D2.3	Pseudogene	sre-10	WBGene00017330	F10D2.3	CDS
+zip-9	WBGene00077761	F17C11.17	Pseudogene	zip-9	WBGene00077761	F17C11.17	CDS
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+

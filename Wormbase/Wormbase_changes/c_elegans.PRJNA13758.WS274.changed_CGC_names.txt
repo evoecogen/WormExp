@@ -1,0 +1,37 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+sec-16	WBGene00013985	ZK512.5	CDS	sec-16A.1	WBGene00013985	ZK512.5	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	adah-1	WBGene00015551	C06G3.5	CDS
+.	.	.	.	adal-1	WBGene00016632	C44B7.12	CDS
+.	.	.	.	chmp-7	WBGene00011976	T24B8.2	CDS
+.	.	.	.	figo-1	WBGene00007912	C34B7.2	CDS
+.	.	.	.	mina-1	WBGene00008061	C41G7.3	CDS
+.	.	.	.	moc-5	WBGene00009885	F49E2.1	CDS
+.	.	.	.	pap-2	WBGene00011791	T15H9.6	CDS
+.	.	.	.	pap-3	WBGene00009658	F43G6.5	CDS
+.	.	.	.	pnp-1	WBGene00019298	K02D7.1	CDS
+.	.	.	.	sec-16A.2	WBGene00017419	F13B9.1	CDS
+.	.	.	.	slc-46A	WBGene00021159	Y4C6B.5	CDS
+.	.	.	.	slcr-46.1	WBGene00016705	C46C11.2	CDS
+.	.	.	.	slcr-46.2	WBGene00012811	Y43F8A.5	CDS
+.	.	.	.	slcr-46.3	WBGene00009582	F40F9.5	CDS
+.	.	.	.	svh-11	WBGene00021164	Y5H2B.1	CDS
+.	.	.	.	tsct-1	WBGene00011824	T18D3.7	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+abt-6	WBGene00018982	F56F4.6	CDS	abt-6	WBGene00018982	F56F4.6	Pseudogene
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+let-7	WBGene00002285	C05G5.6.1	Transcript	let-7	WBGene00002285	C05G5.6	Transcript
+

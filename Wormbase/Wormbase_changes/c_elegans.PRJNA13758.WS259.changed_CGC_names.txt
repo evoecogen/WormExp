@@ -1,0 +1,53 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+hpo-24	WBGene00011945	T23D8.7	CDS	alg-5	WBGene00011945	T23D8.7	CDS
+rmo-1	WBGene00008860	F15D4.3	CDS	romo-1	WBGene00008860	F15D4.3	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	actl-1	WBGene00015787	C15B12.6	CDS
+.	.	.	.	cest-1	WBGene00011362	T02B5.1	CDS
+.	.	.	.	cup-14	WBGene00013093	Y51H1A.2	CDS
+.	.	.	.	cup-15	WBGene00009627	F42A8.3	CDS
+.	.	.	.	cup-16	WBGene00007919	C34C6.7	CDS
+.	.	.	.	fath-1	WBGene00007707	C25A1.5	CDS
+.	.	.	.	glb-34	WBGene00077763	Y57G11B.97	CDS
+.	.	.	.	hpx-2	WBGene00008627	F09F3.5	CDS
+.	.	.	.	hrpu-1	WBGene00012769	Y41E3.11	CDS
+.	.	.	.	impk-1	WBGene00014081	ZK795.1	CDS
+.	.	.	.	lep-2	WBGene00002278	Y55F3AM.6	CDS
+.	.	.	.	msrp-1	WBGene00017978	F32B5.4	CDS
+.	.	.	.	msrp-2	WBGene00022751	ZK484.5	CDS
+.	.	.	.	msrp-3	WBGene00018497	F46F5.6	CDS
+.	.	.	.	msrp-4	WBGene00018500	F46F5.9	CDS
+.	.	.	.	msrp-5	WBGene00017059	D2062.7	CDS
+.	.	.	.	msrp-6	WBGene00017058	D2062.6	CDS
+.	.	.	.	msrp-7	WBGene00011070	R06F6.7	CDS
+.	.	.	.	natb-1	WBGene00022394	Y97E10AL.3	CDS
+.	.	.	.	ncap-1	WBGene00022453	Y110A2AR.3	CDS
+.	.	.	.	nova-1	WBGene00013347	Y59A8B.10	CDS
+.	.	.	.	npp-24	WBGene00022672	ZK177.4	CDS
+.	.	.	.	npp-25	WBGene00012555	Y37D8A.17	CDS
+.	.	.	.	npp-26	WBGene00021198	Y17G9B.1	CDS
+.	.	.	.	pelo-1	WBGene00011280	R74.6	CDS
+.	.	.	.	pign-1	WBGene00021840	Y54E10BR.1	CDS
+.	.	.	.	sas-7	WBGene00011562	T07C4.10	CDS
+.	.	.	.	smcr-8	WBGene00020095	R144.5	CDS
+.	.	.	.	ttc-37	WBGene00021613	Y47A7.1	CDS
+.	.	.	.	xhd-1	WBGene00010083	F55B11.1	CDS
+.	.	.	.	xrep-4	WBGene00018509	F46F11.6	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+let-7	WBGene00002285	C05G5.6.1	Transcript	let-7	WBGene00002285	C05G5.6.2	Transcript
+mir-8210	WBGene00201935	C54G10.6	Transcript	mir-8210	WBGene00201935	C54G10.6.1	Transcript
+

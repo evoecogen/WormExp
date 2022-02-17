@@ -1,0 +1,39 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+nol-2	WBGene00021073	W07E6.1	CDS	nsun-1	WBGene00021073	W07E6.1	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	arcp-1	WBGene00009375	F34D10.6	CDS
+.	.	.	.	ciao-1	WBGene00012479	Y18D10A.9	CDS
+.	.	.	.	ciao-2B	WBGene00009736	F45G2.10	CDS
+.	.	.	.	cpg-18	WBGene00016667	C45E5.4	CDS
+.	.	.	.	cpg-19	WBGene00015546	C06G1.2	CDS
+.	.	.	.	cpg-20	WBGene00019514	K08B4.2	CDS
+.	.	.	.	cpg-22	WBGene00020413	T10E9.3	CDS
+.	.	.	.	cpg-23	WBGene00012670	Y39B6A.8	CDS
+.	.	.	.	cpg-24	WBGene00021525	Y41D4B.26	CDS
+.	.	.	.	elof-1	WBGene00013219	Y54G11A.11	CDS
+.	.	.	.	flwr-1	WBGene00008973	F20D1.1	CDS
+.	.	.	.	nonu-1	WBGene00017811	F26A1.13	CDS
+.	.	.	.	pfut-1	WBGene00015793	C15C7.7	CDS
+.	.	.	.	pycr-1	WBGene00010924	M153.1	CDS
+.	.	.	.	pycr-4	WBGene00018904	F55G1.9	CDS
+.	.	.	.	sbsp-1	WBGene00011269	R17.3	CDS
+.	.	.	.	serr-1	WBGene00011353	T01H8.2	CDS
+.	.	.	.	wac-1.1	WBGene00012734	Y40B1A.3	CDS
+.	.	.	.	wac-1.2	WBGene00012732	Y40B1A.1	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+dmd-11	WBGene00007930	C34D1.2	CDS	.	.	.	.
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+

@@ -1,0 +1,67 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+ggr-3	WBGene00001588	F09C12.1	CDS	lgc-56	WBGene00001588	F09C12.1	CDS
+retr-1	WBGene00018416	F44E2.2	CDS	cerv-1	WBGene00018416	F44E2.2	CDS
+tag-304	WBGene00018757	F53E2.1	CDS	gid-8	WBGene00018757	F53E2.1	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	dph-5	WBGene00007194	B0491.7	CDS
+.	.	.	.	dph-6	WBGene00017087	E01A2.5	CDS
+.	.	.	.	dph-7	WBGene00012806	Y43F4B.9	CDS
+.	.	.	.	dyf-4	WBGene00007552	C13C12.2	CDS
+.	.	.	.	gid-1	WBGene00013202	Y54E5A.7	CDS
+.	.	.	.	gid-2	WBGene00020301	T07D1.2	CDS
+.	.	.	.	gid-7	WBGene00021482	Y39H10A.6	CDS
+.	.	.	.	hacl-1	WBGene00007143	B0334.3	CDS
+.	.	.	.	hbs-1	WBGene00010622	K07A12.4	CDS
+.	.	.	.	kin-36	WBGene00020678	T22B11.4	CDS
+.	.	.	.	mccc-2	WBGene00303021	F02A9.10	CDS
+.	.	.	.	mip-1	WBGene00008005	C38D4.4	CDS
+.	.	.	.	mip-2	WBGene00010281	F58G11.3	CDS
+.	.	.	.	nspg-1	WBGene00011592	T07F10.6	CDS
+.	.	.	.	nspg-10	WBGene00017591	F19C7.1	CDS
+.	.	.	.	nspg-11	WBGene00009883	F49C12.14	CDS
+.	.	.	.	nspg-12	WBGene00021321	Y34B4A.5	CDS
+.	.	.	.	nspg-13	WBGene00021325	Y34B4A.9	CDS
+.	.	.	.	nspg-14	WBGene00021322	Y34B4A.6	CDS
+.	.	.	.	nspg-3	WBGene00044287	F21H12.7	CDS
+.	.	.	.	nspg-4	WBGene00022827	ZK816.4	CDS
+.	.	.	.	nspg-5	WBGene00021526	Y41G9A.2	CDS
+.	.	.	.	nspg-6	WBGene00018951	F56C9.7	CDS
+.	.	.	.	nspg-7.1	WBGene00011856	T20D3.2	CDS
+.	.	.	.	nspg-7.2	WBGene00021805	Y53G8AM.5	CDS
+.	.	.	.	nspg-8	WBGene00022490	Y119D3B.13	CDS
+.	.	.	.	nspg-9	WBGene00010793	LLC1.2	CDS
+.	.	.	.	nsph-1.1	WBGene00010682	K08F8.5	CDS
+.	.	.	.	nsph-1.2	WBGene00011030	R05D7.5	CDS
+.	.	.	.	nsph-2	WBGene00013956	ZK265.3	CDS
+.	.	.	.	nsph-3.1	WBGene00013474	Y69E1A.2	CDS
+.	.	.	.	nsph-3.2	WBGene00007308	C04G2.9	CDS
+.	.	.	.	nsph-4.1	WBGene00043743	Y59E9AL.2	CDS
+.	.	.	.	nsph-4.2	WBGene00021993	Y59E9AL.3	CDS
+.	.	.	.	nsph-4.3	WBGene00194734	T04A6.4	CDS
+.	.	.	.	picd-1	WBGene00018975	F56E10.1	CDS
+.	.	.	.	rfk-1	WBGene00011224	R10H10.6	CDS
+.	.	.	.	rif-1.1	WBGene00008710	F11E6.7	CDS
+.	.	.	.	rif-1.2	WBGene00008958	F19H6.3	CDS
+.	.	.	.	sna-3	WBGene00016015	C23G10.8	CDS
+.	.	.	.	sosi-1	WBGene00016565	C41D11.6	CDS
+.	.	.	.	tgs-1	WBGene00011631	T08G11.4	CDS
+.	.	.	.	tmem-120	WBGene00019716	M01G5.3	CDS
+.	.	.	.	tmem-39	WBGene00017003	D1007.5	CDS
+.	.	.	.	uad-2	WBGene00019429	K06A5.1	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+let-7	WBGene00002285	C05G5.6.1	Transcript	let-7	WBGene00002285	C05G5.6	Transcript
+

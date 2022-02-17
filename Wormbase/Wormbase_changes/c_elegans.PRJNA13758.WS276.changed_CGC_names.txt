@@ -1,0 +1,51 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+nip-1	WBGene00018386	F43C11.9	CDS	enri-1	WBGene00018386	F43C11.9	CDS
+nip-2	WBGene00011981	T24C2.2	CDS	enri-2	WBGene00011981	T24C2.2	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	cank-26	WBGene00019641	K10G6.4	CDS
+.	.	.	.	cdc-50.B	WBGene00008969	F20C5.4	CDS
+.	.	.	.	fnip-2	WBGene00020208	T04C4.1	CDS
+.	.	.	.	pdzd-8	WBGene00008274	C53B4.4	CDS
+.	.	.	.	sart-1	WBGene00017605	F19F10.9	CDS
+.	.	.	.	talp-3	WBGene00013322	Y57G11C.32	CDS
+.	.	.	.	txt-1	WBGene00016807	C50D2.3	CDS
+.	.	.	.	txt-10	WBGene00009107	F25D1.2	CDS
+.	.	.	.	txt-11	WBGene00020611	T20D4.5	CDS
+.	.	.	.	txt-12	WBGene00007241	C01G10.16	CDS
+.	.	.	.	txt-13	WBGene00007353	C06A1.2	CDS
+.	.	.	.	txt-14	WBGene00013081	Y51A2D.14	CDS
+.	.	.	.	txt-17	WBGene00017621	F20A1.10	CDS
+.	.	.	.	txt-18	WBGene00016310	C32D5.1	CDS
+.	.	.	.	txt-19	WBGene00010827	M02B1.2	CDS
+.	.	.	.	txt-2	WBGene00019817	R02C2.6	CDS
+.	.	.	.	txt-3	WBGene00021176	Y9C9A.1	CDS
+.	.	.	.	txt-4	WBGene00019368	K03H6.2	CDS
+.	.	.	.	txt-5	WBGene00016499	C37C3.7	CDS
+.	.	.	.	txt-6	WBGene00022022	Y61A9LA.11	CDS
+.	.	.	.	txt-7	WBGene00022275	Y74C9A.1	CDS
+.	.	.	.	txt-8	WBGene00013950	ZK262.3	CDS
+.	.	.	.	txt-9	WBGene00015455	C04G6.5	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+pqm-96	WBGene00004097	T05G5.11	CDS	.	.	.	.
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+fbxa-20	WBGene00022332	Y82E9BL.16	CDS	fbxa-20	WBGene00022332	Y82E9BL.16	Pseudogene
+fbxa-23	WBGene00020459	T12B5.13	CDS	fbxa-23	WBGene00020459	T12B5.13	Pseudogene
+fbxa-92	WBGene00022496	Y119D3B.20	CDS	fbxa-92	WBGene00022496	Y119D3B.20	Pseudogene
+srb-7	WBGene00005072	F37C12.17	CDS	srb-7	WBGene00005072	F37C12.17	Pseudogene
+srb-8	WBGene00005073	F37C12.15	CDS	srb-8	WBGene00005073	F37C12.15	Pseudogene
+srz-8	WBGene00022483	Y119D3B.5	CDS	srz-8	WBGene00022483	Y119D3B.5	Pseudogene
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+let-7	WBGene00002285	C05G5.6.1	Transcript	let-7	WBGene00002285	C05G5.6	Transcript
+

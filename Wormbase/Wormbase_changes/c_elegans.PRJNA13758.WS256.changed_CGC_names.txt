@@ -1,0 +1,33 @@
+# Genes with changed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+tag-231	WBGene00044063	ZK430.2	CDS	bpnt-1	WBGene00044063	ZK430.2	CDS
+
+# new CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+.	.	.	.	acox-4	WBGene00008567	F08A8.4	CDS
+.	.	.	.	acox-6	WBGene00019060	F58F9.7	CDS
+.	.	.	.	cdk-11.1	WBGene00015203	B0495.2	CDS
+.	.	.	.	cdk-11.2	WBGene00013917	ZC504.3	CDS
+.	.	.	.	gpap-1	WBGene00012390	Y6B3B.5	CDS
+.	.	.	.	kbrl-1	WBGene00009919	F52A8.6	CDS
+.	.	.	.	lect-2	WBGene00019407	K05F1.5	CDS
+.	.	.	.	lonp-1	WBGene00016391	C34B2.6	CDS
+.	.	.	.	lonp-2	WBGene00013541	Y75B8A.4	CDS
+.	.	.	.	metl-2	WBGene00044720	Y53F4B.42	CDS
+.	.	.	.	oatr-1	WBGene00015814	C16A3.10	CDS
+
+# removed CGC names
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# assigned Gene changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+
+# Biotype changed
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+fbxa-168	WBGene00007838	C31C9.4	CDS	fbxa-168	WBGene00007838	C31C9.4	Pseudogene
+
+# other changes
+# old CGC	old GeneID	old SequenceID	old Biotype	new CGC	new GeneID	new SequenceID	new Biotype
+let-7	WBGene00002285	C05G5.6.1	Transcript	let-7	WBGene00002285	C05G5.6.2	Transcript
+mir-8210	WBGene00201935	C54G10.6	Transcript	mir-8210	WBGene00201935	C54G10.6.1	Transcript
+
