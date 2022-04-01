@@ -2481,3 +2481,11 @@ Down in N2 on non-pathogenic B. thuringiensis Bt679 vs Bt407 24h	https://journal
 Up in N2 on non-pathogenic B. thuringiensis Bt407 vs OP50 6h	https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008826
 Down in N2 on non-pathogenic B. thuringiensis Bt407 vs OP50 6h	https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008826
 Up in N2 on non-pathogenic B. thuringiensis Bt407 vs OP50 12h	https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008826
+Up in N2 by Bacillus thuringiensis MYBt247 infection 12h	https://pubmed.ncbi.nlm.nih.gov/27066825/
+Down in N2 by Bacillus thuringiensis MYBt247 infection 12h	https://pubmed.ncbi.nlm.nih.gov/27066825/
+Up in N2 by Bacillus thuringiensis MYBt247 infection 24h	https://pubmed.ncbi.nlm.nih.gov/27066825/
+Down in N2 by Bacillus thuringiensis MYBt247 infection 24h	https://pubmed.ncbi.nlm.nih.gov/27066825/
+Up in N2 by P. aeruginosa PA14  infection 12h	https://pubmed.ncbi.nlm.nih.gov/27066825/
+Down in N2 by P. aeruginosa PA14 infection 12h	https://pubmed.ncbi.nlm.nih.gov/27066825/
+Up in N2 by P. aeruginosa PA14 infection 24h	https://pubmed.ncbi.nlm.nih.gov/27066825/
+Down in N2 by P. aeruginosa PA14 infection 24h	https://pubmed.ncbi.nlm.nih.gov/27066825/
