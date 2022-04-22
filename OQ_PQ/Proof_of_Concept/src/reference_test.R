@@ -7,9 +7,6 @@ library("tidyverse")
 # Import
 data_list <- import(path = "../Reference_Check", pattern ="*.txt", header = FALSE)
 
-# extract reference
-reference <- data_list$reference
-
 # remove reference and WormbaseIDs
 data_list <- data_list[-c(1, 10)]
 
@@ -20,7 +17,7 @@ for (i in 1:length(data_list)){
   res <- data_list[[i]] %>% 
     group_by(V2) %>% 
     distinct(V2, .keep_all = TRUE) %>% 
-    select(V2) %>% 
+    select(V2) %>%
     as.data.frame()
   
   gene_sets[[i]] <- res
@@ -30,23 +27,44 @@ for (i in 1:length(data_list)){
   
 }
 
+
 big_list <- do.call(rbind, gene_sets)
+big_list <- as.data.frame(cbind(trim(big_list$V2), big_list$Category))
 
-# outersect -> finds not matching elements
-diff <- outersect(big_list, reference$V1)
-
-# export faulty references for further use in Excel
-write(diff, "faulty_references.txt")
 
 # search for gene sets in big_list
-
 big_list %>% 
-  filter(str_detect(V2, "DD") == TRUE)
+  filter(str_detect(V1, "Up in N2 by P. aeruginosa PA14  infection 12h") == TRUE)
 
 
-reference  %>% 
+trimmed_references  %>% 
+  as.data.frame() %>% 
   dplyr::select(V1) %>% 
-  filter(str_detect(V1, "Ochrobactrum") == TRUE)
+  filter(str_detect(V1, "Down in worms fed with E. Coli at 25C") == TRUE)
 
 
 small_list <- subset(big_list, Category == "Development-Dauer-Aging")
+
+
+
+# Extract updated references
+wormexp_info <- read_csv("../Reference_Check/WormExp_info.csv")
+
+references_new <- wormexp_info %>% 
+  as.data.frame() %>% 
+  dplyr::select(c("Gene Set name", "Refs"))
+
+trimmed_references <- trim(references_new$`Gene Set name`)
+trimmed_references <- as.data.frame(cbind(trim(references_new$`Gene Set name`), references_new$Refs))
+
+write.table(references_new, "../Reference_check/new_references.txt", sep = "\t", row.names = FALSE)
+  
+  
+# find overlaps
+not_in_references <- setdiff(big_list$V1, trimmed_references$V1)
+not_in_datasets <- setdiff(trimmed_references$V1, big_list$V1)
+
+# export faulty references for further use in Excel
+write(not_in_references, "datasets_not_in_references.txt")
+write(not_in_datasets, "datasets_not_in_datasets.txt")
+

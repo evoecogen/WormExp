@@ -61,3 +61,5 @@ outersect <- function(x, y, ...) {
   setdiff(big.vec, unique(duplicates))
 }
 
+trim <- function (x) gsub("^\\s+|\\s+$", "", x)
+
