@@ -5,8 +5,7 @@ source("./convenience.R")
 library("tidyverse")
 library("ggplot2")
 library("UpSetR")
-library("ComplexHeatmap")
-library("circlize")
+library("RColorBrewer")
 
 ### Import data
 data_list <- import(path = "../Zarate-Potes/cluster_sets/wormexp_output", pattern="C\\d*", header = TRUE)
@@ -73,42 +72,33 @@ cross_prod <- lapply(cross_prod, function(x) floor(t(x*100/diag(x))))
 names(cross_prod) <- names(data_list)
 
 # plot
-col_fun = colorRamp2(c(0, 50, 100), c("white", "orange", "red"))
-lgd <- Legend(col_fun = col_fun, title = "Overlapped Genes [%]")
-
-plots <- list()
 title_list <- names(cross_prod)
 
-for (i in 1:length(cross_prod)) {
+for(i in 1:length(cross_prod)){
   
-  # uncomment when no clustering is wanted
-  row_col_order <- data_list[[i]] %>% 
-    arrange(FDR, decreasing = FALSE) %>% 
-    slice(1:30) %>% 
-    select(Term) %>% 
-    unlist() %>% 
-    as.character()
+  # save file 
+  png(paste("../Zarate-Potes/heatmaps/final", title_list[i], ".png", sep = "_", collapse = NULL), width = 900, height = 900)
   
-  # save as jpeg
- #  png(file = paste0("../Zarate-Potes/heatmaps/", "sorted_", title_list[i], ".png"))
-  
-
-    plots[[i]] <- Heatmap(cross_prod[[i]], 
-                          col = col_fun,
-                          cluster_rows = FALSE, # set true when clustering
-                          cluster_columns = FALSE, # set true when clustering
-                          row_dend_reorder = FALSE, # set true when clustering
-                          row_order = row_col_order,  # remove for clustering
-                          column_order = row_col_order, # remove for clustering
-                          column_names_gp = gpar(fontsize = 8),
-                          row_names_gp = gpar(fontsize = 8),
-                          column_title = paste("Gene Overlap in", title_list[i], sep = " ", collapse = NULL),
-                          heatmap_legend_param = list(
-                            title = "Overlapped Genes [%]", 
-                            at = c(0, 50, 100), 
-                            labels = c("0", "50", "100"),
-                            color_bar = "continuous")
+  # plot file
+  heatmap(cross_prod[[i]], 
+          Rowv = TRUE, 
+          Colv = "Rowv", 
+          main = paste("Gene Overlap in", title_list[i], sep = " ", collapse = NULL),
+          col = colorRampPalette(brewer.pal(8, "PiYG"))(5),
+          cexRow = 1,
+          cexCol = 1,
+          margins = c(30,30)
   )
+  
+  legend(x = "topleft", 
+         legend = c("0","25","50","75","100"),
+         title = "[%] Overlapped Genes",
+         fill = colorRampPalette(brewer.pal(8, "PiYG"))(5)
+  )
+  
+  # remove settings
+  dev.off()
+
 }
 
-plots[[20]]
+
