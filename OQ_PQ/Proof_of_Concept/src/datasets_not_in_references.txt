@@ -97,6 +97,8 @@ Induced by daf-16 (Heimbucher)
 Repressed by daf-16 (Heimbucher)
 UP by daf-2 mutant (Sonoda)
 down by daf-2 mutant (Sonoda)
+Down by daf-2(RNAi)
+Up by daf-2(RNAi)
 down by aging on day 3
 UP by aging on day 3
 down by aging on day 5

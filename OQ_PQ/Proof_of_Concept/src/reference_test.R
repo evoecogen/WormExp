@@ -34,13 +34,13 @@ big_list <- as.data.frame(cbind(trim(big_list$V2), big_list$Category))
 
 # search for gene sets in big_list
 big_list %>% 
-  filter(str_detect(V1, "Up in N2 by P. aeruginosa PA14  infection 12h") == TRUE)
+  filter(str_detect(V1, "isp-1") == TRUE)
 
 
 trimmed_references  %>% 
   as.data.frame() %>% 
   dplyr::select(V1) %>% 
-  filter(str_detect(V1, "Down in worms fed with E. Coli at 25C") == TRUE)
+  filter(str_detect(V1, "adr") == TRUE)
 
 
 small_list <- subset(big_list, Category == "Development-Dauer-Aging")
