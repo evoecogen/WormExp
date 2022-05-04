@@ -34,7 +34,7 @@ big_list <- as.data.frame(cbind(trim(big_list$V2), big_list$Category))
 
 # search for gene sets in big_list
 big_list %>% 
-  filter(str_detect(V1, "isp-1") == TRUE)
+  filter(str_detect(V1, "atfs1") == TRUE)
 
 
 trimmed_references  %>% 

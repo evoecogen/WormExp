@@ -9,11 +9,17 @@ library("ComplexHeatmap")
 
 # Import data
 data_list <- import(path = "./Zarate-Potes/cluster_sets/wormexp_output", pattern="C\\d*")
-temp_cluster <- data_list[["C1_new"]]
+
+temp_cluster <- data_list[["C1_new"]] %>% 
+  group_by(Term, OverlappedID) %>% 
+  mutate(OverlappedID = strsplit(as.character(OverlappedID), "[,;]+")) %>%
+  unnest(OverlappedID)
 
 # Create binary matrix
 temp_binary <- temp_cluster %>% 
   group_by(Term, OverlappedID) %>% 
+  mutate(OverlappedID = strsplit(as.character(OverlappedID), "[,;]+")) %>%
+  unnest(OverlappedID) %>%
   summarise(n = n()) %>%
   spread(OverlappedID, n, fill = 0) %>% 
   column_to_rownames(var="Term")
@@ -26,7 +32,7 @@ temp_binary_terms <- as.matrix(taxa.filter(t(temp_binary), percent.filter = 0.20
 
 
 # UpSet plot for genes
-genes_of_interest <- colnames(temp_binary_genes)
+genes_of_interest <- colnames(temp_binary)
 
 gene_contigs <- unique(temp_cluster$Term)
 gene_objects <- list()

@@ -4,7 +4,7 @@ source("./convenience.R")
 ### Libraries
 library("tidyverse")
 library("ggplot2")
-library("UpSetR")
+library("reshape2")
 library("RColorBrewer")
 
 ### Import data
@@ -65,8 +65,12 @@ for (i in 1:length(data_list)) {
 cluster_binary <- lapply(cluster_binary, function(x) t(x))
 
 # calculate crossproduct -> how much overlap exists between terms and calculate percentages
-cross_prod <- lapply(cluster_binary, function(x) crossprod(x))                         
-cross_prod <- lapply(cross_prod, function(x) floor(t(x*100/diag(x))))
+cross_prod <- lapply(cluster_binary, function(x) crossprod(x))    
+
+##################
+# DAS IST DER ÜBELTÄTER!!!
+cross_prod <- lapply(cross_prod, function(x) floor((x*100/diag(x))))
+##################
 
 # name cross_prod objects
 names(cross_prod) <- names(data_list)
@@ -74,31 +78,47 @@ names(cross_prod) <- names(data_list)
 # plot
 title_list <- names(cross_prod)
 
+# create list with row_order objects
+row_order_list <- list()
+for(i in 1:length(cross_prod)){
+  
+  ht1 <- Heatmap(cross_prod[[i]],
+                 cluster_rows = FALSE,
+                 cluster_columns = TRUE)
+  ht1 <- draw(ht1)
+  
+  row_order_list[[i]] <- column_order(ht1)
+
+}
+
+dev.off()
+
 for(i in 1:length(cross_prod)){
   
   # save file 
   png(paste("../Zarate-Potes/heatmaps/final", title_list[i], ".png", sep = "_", collapse = NULL), width = 900, height = 900)
   
   # plot file
-  heatmap(cross_prod[[i]], 
-          Rowv = TRUE, 
-          Colv = "Rowv", 
-          main = paste("Gene Overlap in", title_list[i], sep = " ", collapse = NULL),
-          col = colorRampPalette(brewer.pal(8, "PiYG"))(5),
-          cexRow = 1,
-          cexCol = 1,
-          margins = c(30,30)
+  ht <- Heatmap(cross_prod[[i]],
+          column_title = paste("Gene Overlap of", title_list[i], sep = " ", collapse = NULL),
+          column_title_gp = gpar(fontsize = 15),
+          col = colorRampPalette(brewer.pal(8, "Reds"))(10),
+          cluster_rows = FALSE,
+          cluster_columns = TRUE,
+          row_order = row_order_list[[i]],
+          column_names_gp = gpar(fontsize = 10),
+          row_names_gp = gpar(fontsize = 10),
+          heatmap_width = unit(18, "cm"),
+          heatmap_height = unit(18, "cm"),
+          heatmap_legend_param = list(
+            title = "Gene Overlap in [%]", at = c(0,20,40,60,80,100), 
+            labels = c("0","20","40","60","80","100"))
+          
   )
-  
-  legend(x = "topleft", 
-         legend = c("0","25","50","75","100"),
-         title = "[%] Overlapped Genes",
-         fill = colorRampPalette(brewer.pal(8, "PiYG"))(5)
-  )
+
+  draw(ht, heatmap_legend_side = "left")
   
   # remove settings
   dev.off()
 
 }
-
-
