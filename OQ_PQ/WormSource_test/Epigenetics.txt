@@ -1,4 +1,5 @@
 WBGene00013563	Up in H3.3(-) embryos
+WBGene00013563	Up in H3.3(-) embryos
 WBGene00001946	Down in H3.3(-)  embryos
 WBGene00001945	Down in H3.3(-)  embryos
 WBGene00013563	Up in H3.3(-) L1 larvae

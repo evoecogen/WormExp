@@ -1,30 +1,3 @@
-Down in cav-2
-Up in daf-2(RNAi)
-Down in thoc-5(wy822) mutants
-Up in thoc-5(wy822) mutants
-down by skn-1(RNAi) in dpy-7
-down by skn-1(RNAi) at 24 h
-up by 300mM NaCl 24h and down by skn-1(RNAi)
-up by 300mM NaCl 24h and in dpy-7
-up by 300mM NaCl 3h and 24h
-Up by 300mM NaCl 3h, 24h, and in dpy-7
-up by 300mM NaCl 3h and in dpy-7
-up by 300mM NaCl 24 h
-Up by 300mM NaCl 3h and down by skn-1(RNAi)
-Up by Rapamycin
-Down by P. aeruginosa
-Down in atf-7 on P. aeruginosa
-Up by P. aeruginosa
-UP fromyoung adults to 10 days of age
-Down daf-2 vs. daf-2;pmk-2
-Down in N2 by P. aeruginosa PA14 infection 12h
-Down in N2 by P. aeruginosa PA14 infection 24h
-Up in N2 by P. aeruginosa PA14  infection 12h
-Up in N2 by P. aeruginosa PA14 infection 24h
-UP in dpy27 L1
-Down in adr-1;adr-2 mixed-stage worms
-Up in adr-1;adr-2 mixed-stage worms
-Up in lagr-1;hyl-1  during L1 starvation
-skn-1 regulated genes up in response to vitamine D3 treatment
+down by atfs-1 mutant (et18)
 Down in isp-1 mutants
-Up by E. faecalis infection
+UP by atfs-1 mutant (et18)

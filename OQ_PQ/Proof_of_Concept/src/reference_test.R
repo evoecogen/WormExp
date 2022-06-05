@@ -52,10 +52,10 @@ wormexp_info <- read_csv("../Reference_Check/WormExp_info.csv")
 
 references_new <- wormexp_info %>% 
   as.data.frame() %>% 
-  dplyr::select(c("Gene Set name", "Refs"))
+  dplyr::select(c(Gene_set_name, Refs))
 
 trimmed_references <- trim(references_new$`Gene Set name`)
-trimmed_references <- as.data.frame(cbind(trim(references_new$`Gene Set name`), references_new$Refs))
+trimmed_references <- as.data.frame(cbind(trim(references_new$Gene_set_name), references_new$Refs))
 
 write.table(references_new, "../Reference_check/new_references.txt", sep = "\t", row.names = FALSE)
   
@@ -67,4 +67,13 @@ not_in_datasets <- setdiff(trimmed_references$V1, big_list$V1)
 # export faulty references for further use in Excel
 write(not_in_references, "datasets_not_in_references.txt")
 write(not_in_datasets, "datasets_not_in_datasets.txt")
+
+## write references as string dataframe with tab separated
+library("tidyr")
+
+references_old <- read.delim("../../WormSource_test/reference.txt", header = FALSE) %>% 
+  mutate_all(na_if,"")
+
+write.table(references_old, "../../WormSource_test/reference_new.txt", row.names = FALSE, col.names = FALSE, sep = "\t", na = "NA")
+
 
