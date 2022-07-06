@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.2//EN" "http://struts.apache.org/dtds/struts-config_1_2.dtd">
+
+<struts-config>
+  <data-sources />
+  <form-beans>
+    <form-bean name="contactForm" type="com.demo.struts.forms.ContactForm"/>
+    <form-bean name="uploadForm" type="com.demo.struts.forms.UploadForm"/>
+    <form-bean name="anlysisForm" type="com.demo.struts.forms.AnlysisForm"/>
+    <!-- <form-bean name="successForm" type="com.demo.struts.forms.SuccessForm"></form-bean> -->
+  </form-beans>
+  <global-exceptions />
+  <global-forwards />
+  <action-mappings>
+    <action path="/index" forward="begin.page"/>
+    <action path="/ShowID" forward="showid.page"/>
+    <action path="/ResTable" forward="table.page"/>
+    <action path="/SearchResTable" forward="stable.page" />
+    <action path="/Download" type="com.demo.struts.actions.DownloadAction"/>
+    <action path="/Remove" type="com.demo.struts.actions.removeAction"/>
+    <action path="/useage" forward="/useage.jsp"/>
+    <action path="/KeywordsSearch" type="com.demo.struts.actions.KeywordsSearch" parameter="action" validate="false"/>
+    <action path="/uploadAction" name="uploadForm" type="com.demo.struts.actions.UploadAction" parameter="action" validate="false">
+    </action>
+     <action path="/AnalysisAction" name="anlysisForm" type="com.demo.struts.actions.AnalysisAction" parameter="action" validate="false">
+    </action>
+  </action-mappings>
+  <message-resources parameter="com.AMD.struts.ApplicationResources" />
+  <plug-in className="com.demo.struts.InitialPlugin" />
+  <plug-in className="org.apache.struts.tiles.TilesPlugin">
+  	<set-property property="definitions-config" value="/WEB-INF/tiles-defs.xml"/>
+  </plug-in>
+  <plug-in className="org.apache.struts.validator.ValidatorPlugIn">
+      <set-property property="pathnames" value="/WEB-INF/validator-rules.xml,/WEB-INF/validation.xml"/>
+  </plug-in>
+</struts-config>
+

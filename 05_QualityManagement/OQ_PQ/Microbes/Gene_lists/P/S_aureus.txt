@@ -1,0 +1,41 @@
+WBGene00021072	UP on S. aureus
+WBGene00017071	UP on S. aureus
+WBGene00018343	UP on S. aureus
+WBGene00001500	UP on S. aureus
+WBGene00009895	UP on S. aureus
+WBGene00004987	UP on S. aureus
+WBGene00044206	UP on S. aureus
+WBGene00023069	UP on S. aureus
+WBGene00009724	UP on S. aureus
+WBGene00008167	UP on S. aureus
+WBGene00004096	UP on S. aureus
+WBGene00009213	UP on S. aureus
+WBGene00009215	UP on S. aureus
+WBGene00016332	UP on S. aureus
+WBGene00010062	UP on S. aureus
+WBGene00000784	UP on S. aureus
+WBGene00006650	UP on S. aureus
+WBGene00014057	UP on S. aureus
+WBGene00017678	UP on S. aureus
+WBGene00012968	UP on S. aureus
+WBGene00000219	UP on S. aureus
+WBGene00009393	UP on S. aureus
+WBGene00044728	UP on S. aureus
+WBGene00003094	UP on S. aureus
+WBGene00008211	UP on S. aureus
+WBGene00043743	UP on S. aureus
+WBGene00002257	UP on S. aureus
+WBGene00009877	UP on S. aureus
+WBGene00022781	UP on S. aureus
+WBGene00015116	Down infected by S. Aureus
+WBGene00002260	Down infected by S. Aureus
+WBGene00044107	Down infected by S. Aureus
+WBGene00013007	Down infected by S. Aureus
+WBGene00017703	Down infected by S. Aureus
+WBGene00003995	Down infected by S. Aureus
+WBGene00019550	Down infected by S. Aureus
+WBGene00003522	Down infected by S. Aureus
+WBGene00019473	Down infected by S. Aureus
+WBGene00021188	Down infected by S. Aureus
+WBGene00020895	Down infected by S. Aureus
+WBGene00018174	Down infected by S. Aureus
