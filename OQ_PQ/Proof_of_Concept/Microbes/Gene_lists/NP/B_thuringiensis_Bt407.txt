@@ -1,6 +1,0 @@
-WBGene00016361	Up in N2 on non-pathogenic B. thuringiensis Bt407 vs OP50 6h
-WBGene00003473	Down in N2 on non-pathogenic B. thuringiensis Bt407 vs OP50 6h
-WBGene00016361	Up in N2 on non-pathogenic B. thuringiensis Bt407 vs OP50 12h
-WBGene00000556	Up in N2 on non-pathogenic B. thuringiensis Bt407 vs OP50 12h
-WBGene00017498	Up in N2 on non-pathogenic B. thuringiensis Bt407 vs OP50 12h
-WBGene00017501	Up in N2 on non-pathogenic B. thuringiensis Bt407 vs OP50 12h

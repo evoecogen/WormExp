@@ -1,3 +1,0 @@
-WBGene00008810	Up S. maltophilia K279a vs OP50
-WBGene00021002	Up S. maltophilia K279a vs OP50
-WBGene00022656 	Down S. maltophilia K279a vs OP50

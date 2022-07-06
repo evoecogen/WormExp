@@ -1,3 +1,0 @@
-down by atfs-1 mutant (et18)
-Down in isp-1 mutants
-UP by atfs-1 mutant (et18)
