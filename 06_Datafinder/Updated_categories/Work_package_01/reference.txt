@@ -1,0 +1,327 @@
+Up by Indole in N2 in old animals (day 12)	https://pubmed.ncbi.nlm.nih.gov/28827345/
+Down by Indole in N2 in old animals (day 12)	https://pubmed.ncbi.nlm.nih.gov/28827345/
+Up in N2 by Orsay Virus infection	https://journals.asm.org/doi/full/10.1128/mBio.00924-17
+Down in N2 by Orsay Virus infection	https://journals.asm.org/doi/full/10.1128/mBio.00924-17
+Up in sta-1 mutants by Orsay Virus infection	https://journals.asm.org/doi/full/10.1128/mBio.00924-17
+Down in sta-1 mutants by Orsay Virus infection	https://journals.asm.org/doi/full/10.1128/mBio.00924-17
+Up in sid-3 mutants by Orsay Virus infection	https://journals.asm.org/doi/full/10.1128/mBio.00924-17
+Down in sid-3 mutants by Orsay Virus infection	https://journals.asm.org/doi/full/10.1128/mBio.00924-17
+Up in isp-1 mutants	https://pubmed.ncbi.nlm.nih.gov/28392283/
+Down in isp-1 mutants	https://pubmed.ncbi.nlm.nih.gov/28392283/
+Up by 0.02 mg/mL procyanidin fraction	https://pubmed.ncbi.nlm.nih.gov/28926584/
+Down by 0.02 mg/mL procyanidin fraction	https://pubmed.ncbi.nlm.nih.gov/28926584/
+Up by 0.2 mg/mL procyanidin fraction	https://pubmed.ncbi.nlm.nih.gov/28926584/
+Down by 0.2 mg/mL procyanidin fraction	https://pubmed.ncbi.nlm.nih.gov/28926584/
+Up by 2 mg/mL procyanidin fraction	https://pubmed.ncbi.nlm.nih.gov/28926584/
+Down by 2 mg/mL procyanidin fraction	https://pubmed.ncbi.nlm.nih.gov/28926584/
+Up by 0.2 mg/mL procyanidin crude extract	https://pubmed.ncbi.nlm.nih.gov/28926584/
+Down by 0.2 mg/mL procyanidin crude extract	https://pubmed.ncbi.nlm.nih.gov/28926584/
+Up by trehalose in N2 	https://pubmed.ncbi.nlm.nih.gov/29063832/
+Down by trehalose in N2 	https://pubmed.ncbi.nlm.nih.gov/29063832/
+Up by trehalose in tps-1;tps-2 	https://pubmed.ncbi.nlm.nih.gov/29063832/
+Down by trehalose in tps-1;tps-2 	https://pubmed.ncbi.nlm.nih.gov/29063832/
+Up by trehalose N2 vs. tps-1;tps-2	https://pubmed.ncbi.nlm.nih.gov/29063832/
+Down by trehalose N2 vs. tps-1;tps-2	https://pubmed.ncbi.nlm.nih.gov/29063832/
+Up in tps-1;tps-2 	https://pubmed.ncbi.nlm.nih.gov/29063832/
+Down in tps-1;tps-2	https://pubmed.ncbi.nlm.nih.gov/29063832/
+Up in emb-4(hc60)	https://pubmed.ncbi.nlm.nih.gov/28787592/
+Down in emb-4(hc60)	https://pubmed.ncbi.nlm.nih.gov/28787592/
+Up in worms fed with E. Coli at 25°C	https://pubmed.ncbi.nlm.nih.gov/29515753/
+Down in worms fed with E. Colit at 25°C	https://pubmed.ncbi.nlm.nih.gov/29515753/
+Up in worms fed with B. Subtilis at 25°C	https://pubmed.ncbi.nlm.nih.gov/29515753/
+Down in worms fed with B. Subtilis at 25°C	https://pubmed.ncbi.nlm.nih.gov/29515753/
+Up in worms fed with B. Subtilis at 15°C	https://pubmed.ncbi.nlm.nih.gov/29515753/
+Down in worms fed with B. Subtilis at 15°C	https://pubmed.ncbi.nlm.nih.gov/29515753/
+Up in worms fed with E. Coli at 15°C	https://pubmed.ncbi.nlm.nih.gov/29515753/
+Down in worms fed with E. Coli at 15°C	https://pubmed.ncbi.nlm.nih.gov/29515753/
+Up in worms fed with E. coli independent of temperature	https://pubmed.ncbi.nlm.nih.gov/29515753/
+Up in worms fed with B. subtilis independent of temperature	https://pubmed.ncbi.nlm.nih.gov/29515753/
+Up in daf-2	https://pubmed.ncbi.nlm.nih.gov/30300667/
+Down in daf-2	https://pubmed.ncbi.nlm.nih.gov/30300667/
+Up in eat-2	https://pubmed.ncbi.nlm.nih.gov/30300667/
+Down in eat-2	https://pubmed.ncbi.nlm.nih.gov/30300667/
+Up in mir-71(n4115) Day 5	https://pubmed.ncbi.nlm.nih.gov/29114017/
+Down in mir-71(n4115) Day 5	https://pubmed.ncbi.nlm.nih.gov/29114017/
+Up in age-dependent RNA expression	https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007466#sec019
+Down in age-dependent RNA expression	https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007466#sec019
+Up in ash-2 RNAi	https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007466#sec019
+Down in ash-2 RNAi	https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007466#sec019
+Up by iron oxide nanoparticles (SPIONs) exposure	https://pubmed.ncbi.nlm.nih.gov/28673184/
+Down by iron oxide nanoparticles (SPIONs) exposure	https://pubmed.ncbi.nlm.nih.gov/28673184/
+Up in daf-19 in 3-fold embryo	https://pubmed.ncbi.nlm.nih.gov/29301909/
+Up in daf-19 in L1 larvae	https://pubmed.ncbi.nlm.nih.gov/29301909/
+Up in daf-19 in adult 	https://pubmed.ncbi.nlm.nih.gov/29301909/
+Up S. maltophilia JCMS vs E. coli OP50	https://pubmed.ncbi.nlm.nih.gov/30177956/
+Down S. maltophilia JCMS vs E. coli OP50	https://pubmed.ncbi.nlm.nih.gov/30177956/
+Up S. maltophilia K279a vs. E. coli OP50	https://pubmed.ncbi.nlm.nih.gov/30177956/
+Down S. maltophilia K279a vs. E. coli OP50	https://pubmed.ncbi.nlm.nih.gov/30177956/
+Up S. maltophilia JCMS vs. S. maltophilia K279a	https://pubmed.ncbi.nlm.nih.gov/30177956/
+Down S. maltophilia JCMS vs. S. maltophilia K279a	https://pubmed.ncbi.nlm.nih.gov/30177956/
+Up in xrn-2 mutants downstream	https://pubmed.ncbi.nlm.nih.gov/29021241/
+Down in xrn-2 mutants downstream	https://pubmed.ncbi.nlm.nih.gov/29021241/
+Up in xrn-2 mutants upstream	https://pubmed.ncbi.nlm.nih.gov/29021241/
+Down in xrn-2 mutants upstream	https://pubmed.ncbi.nlm.nih.gov/29021241/
+Up by 300mM NaCl 3h and down by skn-1(RNAi) 	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up by 300mM NaCl 24 h 	https://pubmed.ncbi.nlm.nih.gov/29487136/
+down by skn-1(RNAi) at 24 h	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up  by 300mM NaCl 24h and down by skn-1(RNAi)	https://pubmed.ncbi.nlm.nih.gov/29487136/
+down by skn-1(RNAi)  in dpy-7	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up in dpy-7 and down by skn-1(RNAi)	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up  by 300mM NaCl 3h and 24h 	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up by  300mM NaCl 3h and in dpy-7	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up  by 300mM NaCl 24h and in dpy-7	https://pubmed.ncbi.nlm.nih.gov/29487136/
+Up  by 300mM NaCl 3h, 24h, and in dpy-7	https://pubmed.ncbi.nlm.nih.gov/29487136/
+Up at 3h and skn-1 down	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up at 24 h of NaCl	https://pubmed.ncbi.nlm.nih.gov/29487136/
+down by skn-1 at 24 h	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up at 24h and down by skn-1	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up in dpy-7	https://pubmed.ncbi.nlm.nih.gov/29487136/
+down by skn-1  in dpy-7	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up in dpy-7 and down by skn-1	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up at 3h and 24h NaCl	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up at 3h NaCl and dpy-7	https://pubmed.ncbi.nlm.nih.gov/29487136/
+up at 24h NaCl and dpy-7	https://pubmed.ncbi.nlm.nih.gov/29487136/
+Up at 3h, 24h, and dpy-7	https://pubmed.ncbi.nlm.nih.gov/29487136/
+Up by E. faecalis infection	https://pubmed.ncbi.nlm.nih.gov/29436902/
+Down by E. faecalis infection	https://pubmed.ncbi.nlm.nih.gov/29436902/
+Up by E. faecium infection	https://pubmed.ncbi.nlm.nih.gov/29436902/
+Down by E. faecium infection	https://pubmed.ncbi.nlm.nih.gov/29436902/
+Up in wt vs elt-2(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Down in wt vs elt-2(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Up in wt vs elt-7(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Up in wt vs elt-2(-);elt-7(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Down in wt vs elt-2(-);elt-7(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Up in elt-2(-) larvae vs elt-2(-);elt-7(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Down in elt-2(-) larvae vs elt-2(-);elt-7(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Up in wt vs elt-2(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Down in wt vs elt-2(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Up in wt vs elt-7(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Up in wt vs elt-2(-);elt-7(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Down in wt vs elt-2(-);elt-7(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Up in elt-2(-) larvae vs elt-2(-);elt-7(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Down in elt-2(-) larvae vs elt-2(-);elt-7(-) larvae	https://pubmed.ncbi.nlm.nih.gov/29360433/
+Up in adr-1;adr-2  mixed-stage worms	https://pubmed.ncbi.nlm.nih.gov/29483152/
+Down in adr-1;adr-2  mixed-stage worms	https://pubmed.ncbi.nlm.nih.gov/29483152/
+Up in clk-1	https://pubmed.ncbi.nlm.nih.gov/29522556/
+Down in clk-1	https://pubmed.ncbi.nlm.nih.gov/29522556/
+Up in isp-1	https://pubmed.ncbi.nlm.nih.gov/29522556/
+Down in isp-1	https://pubmed.ncbi.nlm.nih.gov/29522556/
+Up in nuo-6	https://pubmed.ncbi.nlm.nih.gov/29522556/
+Down in nuo-6	https://pubmed.ncbi.nlm.nih.gov/29522556/
+Up in daf-2	https://pubmed.ncbi.nlm.nih.gov/29522556/
+Down in daf-2	https://pubmed.ncbi.nlm.nih.gov/29522556/
+Up in sod-2	https://pubmed.ncbi.nlm.nih.gov/29522556/
+Down in sod-2	https://pubmed.ncbi.nlm.nih.gov/29522556/
+Up in pry-1 L1 larvae	https://pubmed.ncbi.nlm.nih.gov/30403720/
+Down in pry-1 L1 larvae	https://pubmed.ncbi.nlm.nih.gov/30403720/
+Up in aging	https://pubmed.ncbi.nlm.nih.gov/28751504/
+Down in aging	https://pubmed.ncbi.nlm.nih.gov/28751504/
+Up in fog-2	https://pubmed.ncbi.nlm.nih.gov/28751504/
+Down in fog-2	https://pubmed.ncbi.nlm.nih.gov/28751504/
+Up in female-like state	https://pubmed.ncbi.nlm.nih.gov/28751504/
+Down in female-like state	https://pubmed.ncbi.nlm.nih.gov/28751504/
+Up by peroxide tBOOH in N2	https://onlinelibrary.wiley.com/doi/full/10.1111/acel.12743
+Up by peroxide tBOOH in nhr-49 mutants	https://onlinelibrary.wiley.com/doi/full/10.1111/acel.12743
+Up N2 + peroxide tBOOH vs. nhr-49 + peroxide tBOOH	https://onlinelibrary.wiley.com/doi/full/10.1111/acel.12743
+Down N2 + peroxide tBOOH vs. nhr-49 + peroxide tBOOH	https://onlinelibrary.wiley.com/doi/full/10.1111/acel.12743
+Up N2 vs. nhr-49	https://onlinelibrary.wiley.com/doi/full/10.1111/acel.12743
+Down N2 vs. nhr-49	https://onlinelibrary.wiley.com/doi/full/10.1111/acel.12743
+Up in drh-3(rrr2) mutant	https://pubmed.ncbi.nlm.nih.gov/29579041/
+Down in drh-3(rrr2) mutant	https://pubmed.ncbi.nlm.nih.gov/29579041/
+Up after BPA treatment	https://pubmed.ncbi.nlm.nih.gov/29791850/
+Up in H3.3(-) embryos	https://pubmed.ncbi.nlm.nih.gov/29636369/
+Down in H3.3(-)  embryos	https://pubmed.ncbi.nlm.nih.gov/29636369/
+Up in H3.3(-) L1 larvae	https://pubmed.ncbi.nlm.nih.gov/29636369/
+Down in H3.3(-) L1 larvae	https://pubmed.ncbi.nlm.nih.gov/29636369/
+Up in flp-6 mutants	https://pubmed.ncbi.nlm.nih.gov/27720609/
+Down in flp-6 mutants	https://pubmed.ncbi.nlm.nih.gov/27720609/
+Up in alg-1(gk214) day 5 adult	https://pubmed.ncbi.nlm.nih.gov/29927939/
+Down in alg-1(gk214) day 5 adult	https://pubmed.ncbi.nlm.nih.gov/29927939/
+Up in alg-2(ok304) day 5 adult	https://pubmed.ncbi.nlm.nih.gov/29927939/
+Down in alg-2(ok304) day 5 adult	https://pubmed.ncbi.nlm.nih.gov/29927939/
+Up by high maximum velocity	https://pubmed.ncbi.nlm.nih.gov/32350153/
+Down by high maximum velocity	https://pubmed.ncbi.nlm.nih.gov/32350153/
+Up in nrx-1(-) mutants 	https://pubmed.ncbi.nlm.nih.gov/28879499/
+Down in nrx-1(-) mutants 	https://pubmed.ncbi.nlm.nih.gov/28879499/
+Up in nlg-1(-) mutants 	https://pubmed.ncbi.nlm.nih.gov/28879499/
+Down in nlg-1(-) mutants 	https://pubmed.ncbi.nlm.nih.gov/28879499/
+Up in nrx-1(-);nlg-1(-) mutants	https://pubmed.ncbi.nlm.nih.gov/28879499/
+Down in nrx-1(-);nlg-1(-) mutants	https://pubmed.ncbi.nlm.nih.gov/28879499/
+Up by set-9	https://pubmed.ncbi.nlm.nih.gov/29714684/
+Down by set-9	https://pubmed.ncbi.nlm.nih.gov/29714684/
+Up by set-26	https://pubmed.ncbi.nlm.nih.gov/29714684/
+Down by set-26	https://pubmed.ncbi.nlm.nih.gov/29714684/
+Up in F1 set-9;set-26	https://pubmed.ncbi.nlm.nih.gov/29714684/
+Down in F1 set-9;set-26	https://pubmed.ncbi.nlm.nih.gov/29714684/
+Up in F3 set-9;set-26	https://pubmed.ncbi.nlm.nih.gov/29714684/
+Down in F3 set-9;set-26	https://pubmed.ncbi.nlm.nih.gov/29714684/
+genes with differential H3K4me3 level in F1 set-9 set-26	https://pubmed.ncbi.nlm.nih.gov/29714684/
+genes with differential H3K4me3 level in F3 set-9 set-26	https://pubmed.ncbi.nlm.nih.gov/29714684/
+Up in set-26; glp-1  vs glp-1	https://pubmed.ncbi.nlm.nih.gov/29714684/
+Down in set-26; glp-1  vs glp-1	https://pubmed.ncbi.nlm.nih.gov/29714684/
+Up in daf-16;set-26;glp1 vs set-26; glp-1	https://pubmed.ncbi.nlm.nih.gov/29714684/
+Down in daf-16;set-26;glp1 vs set-26; glp-1	https://pubmed.ncbi.nlm.nih.gov/29714684/
+Up by thoc-5(wy822) mutants	https://pubmed.ncbi.nlm.nih.gov/30146163/
+Down by thoc-5(wy822) mutants	https://pubmed.ncbi.nlm.nih.gov/30146163/
+Down in ogt-1(ok430) at L1	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2867743/
+Down in oga-1(ok1207) at L1	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2867743/
+Up in HSP-90 overexpressing neurons	https://pubmed.ncbi.nlm.nih.gov/29949773/
+Down in liquid axenic medium vs OP50 NGM agar plates in N2	https://pubmed.ncbi.nlm.nih.gov/30064382/
+Up in liquid axenic medium vs OP50 NGM agar plates in N2	https://pubmed.ncbi.nlm.nih.gov/30064382/
+Down in liquid axenic medium vs OP50 NGM agar plates in AB1	https://pubmed.ncbi.nlm.nih.gov/30064382/
+Up in liquid axenic medium vs OP50 NGM agar plates in AB1	https://pubmed.ncbi.nlm.nih.gov/30064382/
+Up in isolated germ nuclei 	https://pubmed.ncbi.nlm.nih.gov/31208332/
+Up in somatic tissues	https://pubmed.ncbi.nlm.nih.gov/31208332/
+Up in egl-9	https://pubmed.ncbi.nlm.nih.gov/30010540/
+Up in egl-9;hif-1 vs egl-9	https://pubmed.ncbi.nlm.nih.gov/30010540/
+Up in cyp-36;egl-9 vs egl-9	https://pubmed.ncbi.nlm.nih.gov/30010540/
+Down in egl-9	https://pubmed.ncbi.nlm.nih.gov/30010540/
+Down in egl-9;hif-1 vs egl-9	https://pubmed.ncbi.nlm.nih.gov/30010540/
+Down in cyp-36;egl-9 vs egl-9	https://pubmed.ncbi.nlm.nih.gov/30010540/
+Up in wdr-23(mac35lf) 	https://pubmed.ncbi.nlm.nih.gov/30166349/
+Down in wdr-23(mac35lf) 	https://pubmed.ncbi.nlm.nih.gov/30166349/
+Up in skn-1(mac53gf) 	https://pubmed.ncbi.nlm.nih.gov/30166349/
+Down in skn-1(mac53gf) 	https://pubmed.ncbi.nlm.nih.gov/30166349/
+Up control fed vs control starved	https://pubmed.ncbi.nlm.nih.gov/30049782/
+Down control fed vs control starved	https://pubmed.ncbi.nlm.nih.gov/30049782/
+Up short term dauer fed vs short term dauer starved	https://pubmed.ncbi.nlm.nih.gov/30049782/
+Down short term dauer fed vs short term dauer starved	https://pubmed.ncbi.nlm.nih.gov/30049782/
+Up long term dauer fed vs long term dauer starved	https://pubmed.ncbi.nlm.nih.gov/30049782/
+Down long term dauer fed vs long term dauer starved	https://pubmed.ncbi.nlm.nih.gov/30049782/
+Up control fed vs long term dauer fed	https://pubmed.ncbi.nlm.nih.gov/30049782/
+Up control starved vs long term dauer starved	https://pubmed.ncbi.nlm.nih.gov/30049782/
+Up Ivermectin at 1 hour vs. Ivermectin + Food at 1 hour 	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Down Ivermectin at 1 hour vs. Ivermectin + Food at 1 hour 	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Up Ivermectin at 24 hours vs. Ivermectin + Food at 24 hours	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Down Ivermectin at 24 hours vs. Ivermectin + Food at 24 hours	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Up Ivermectin at 1 hour vs. Ivermectin at 24 hours	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Down Ivermectin at 1 hour vs. Ivermectin at 24 hours	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Up Ivermectin + Food at 1 hour vs. Ivermectin + Food at 24 hours	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Down Ivermectin + Food at 1 hour vs. Ivermectin + Food at 24 hours	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Up No Ivermectin No Food at 1hr vs. No Ivermectin Food at 1hr	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Down No Ivermectin No Food at 1hr vs. No Ivermectin Food at 1hr	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Up Ivermectin Food at 1hr vs. No Ivermectin Food at 1hr	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Down Ivermectin Food at 1hr vs. No Ivermectin Food at 1hr	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Up Ivermectin No Food at 1hr vs. No Ivermectin No Food at 1hr	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Down Ivermectin No Food at 1hr vs. No Ivermectin No Food at 1hr	https://pubmed.ncbi.nlm.nih.gov/30296941/
+Up in P0 after antimycin exposure	https://pubmed.ncbi.nlm.nih.gov/30510156/
+Up in F1 after antimycin exposure in P0	https://pubmed.ncbi.nlm.nih.gov/30510156/
+Up in F2 after antimycin exposure in P0	https://pubmed.ncbi.nlm.nih.gov/30510156/
+Up in P0 after antimycin exposure in damt-1 mutants	https://pubmed.ncbi.nlm.nih.gov/30510156/
+Down in P0 after antimycin exposure in damt-1 mutants	https://pubmed.ncbi.nlm.nih.gov/30510156/
+Up in F1 after antimycin exposure in P0 in damt-1 mutants	https://pubmed.ncbi.nlm.nih.gov/30510156/
+Down in F1 after antimycin exposure in P0 in damt-1 mutants	https://pubmed.ncbi.nlm.nih.gov/30510156/
+Up in F2 after antimycin exposure in P0 in damt-1 mutants	https://pubmed.ncbi.nlm.nih.gov/30510156/
+Down in F2 after antimycin exposure in P0 in damt-1 mutants	https://pubmed.ncbi.nlm.nih.gov/30510156/
+Up in wt at 24h after P. Aeruginosa infection	https://pubmed.ncbi.nlm.nih.gov/32857822/
+Down in wt at 24h after P. Aeruginosa infection	https://pubmed.ncbi.nlm.nih.gov/32857822/
+Up in AVK interneurons	https://pubmed.ncbi.nlm.nih.gov/30392795/
+Up in AVK interneurons	https://pubmed.ncbi.nlm.nih.gov/30392795/
+Up by pmt-2(RNAi)	https://pubmed.ncbi.nlm.nih.gov/30333136/
+Down by pmt-2(RNAi)	https://pubmed.ncbi.nlm.nih.gov/30333136/
+Up by Tunicamycin	https://pubmed.ncbi.nlm.nih.gov/30333136/
+Down by Tunicamycin	https://pubmed.ncbi.nlm.nih.gov/30333136/
+Up during L1 arrest in the progeny of DR parents	https://pubmed.ncbi.nlm.nih.gov/31280992/
+Down during L1 arrest in the progeny of DR parents	https://pubmed.ncbi.nlm.nih.gov/31280992/
+Up in nuo-6	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Down in nuo-6	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Up in nuo-6;atfs-1	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Down in nuo-6;atfs-1	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Up in atfs-1(gk3094)	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Down in atfs-1(gk3094)	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Up in atfs-1(et15)	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Down in atfs-1(et15)	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Up in atfs-1(et17)	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Down in atfs-1(et17)	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Up in nuo-6;hif-1	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Down in nuo-6;hif-1	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Up in hif-1	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Down in hif-1	https://pubmed.ncbi.nlm.nih.gov/30563508/
+Up in daf-16;fer-15 at day2-3	https://pubmed.ncbi.nlm.nih.gov/30773782/
+Down in daf-16;fer-15 at day2-3	https://pubmed.ncbi.nlm.nih.gov/30773782/
+Up in daf-16;fer-15 at day4-5	https://pubmed.ncbi.nlm.nih.gov/30773782/
+Down in daf-16;fer-15 at day4-5	https://pubmed.ncbi.nlm.nih.gov/30773782/
+Up in daf-16;fer-15 at day6-7	https://pubmed.ncbi.nlm.nih.gov/30773782/
+Down in daf-16;fer-15 at day6-7	https://pubmed.ncbi.nlm.nih.gov/30773782/
+Up by Clostridium butyricum CBM588 	https://pubmed.ncbi.nlm.nih.gov/30563064/
+Down by Clostridium butyricum CBM588 	https://pubmed.ncbi.nlm.nih.gov/30563064/
+Up by Allantoin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Allantoin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Metformin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Metformin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Psora	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Psora	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Rapamycin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Rapamycin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Rifampicin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Rifampicin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Psora + Allantoin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Psora + Allantoin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Rapamycin + Allantoin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Rapamycin + Allantoin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Rifampicin + Allantoin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Rifampicin + Allantoin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Rifampicin + Psora	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Rifampicin + Psora	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Rapamycin + Metformin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Rapamycin + Metformin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Rapamycin + Psora	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Rapamycin + Psora	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Rapamycin + Rifampicin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Rapamycin + Rifampicin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Rapamycin + Rifampicin + Psora	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Rapamycin + Rifampicin + Psora	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up by Rifampicin + Psora + Allantoin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Down by Rifampicin + Psora + Allantoin	https://www.sciencedirect.com/science/article/pii/S1534580718306993#app2
+Up in ccm1/kri-1(ok1251)	https://pubmed.ncbi.nlm.nih.gov/30728328/
+Down in ccm1/kri-1(ok1251)	https://pubmed.ncbi.nlm.nih.gov/30728328/
+Up in ccm-3/pdcd10(tm2806)	https://pubmed.ncbi.nlm.nih.gov/30728328/
+Down in ccm-3/pdcd10(tm2806)	https://pubmed.ncbi.nlm.nih.gov/30728328/
+Up in hpx-2 	https://pubmed.ncbi.nlm.nih.gov/30695063/
+Down in hpx-2 	https://pubmed.ncbi.nlm.nih.gov/30695063/
+Up in hpx-2 after exposure to Enterococcus feacalis OG1RF	https://pubmed.ncbi.nlm.nih.gov/30695063/
+Down in hpx-2 after exposure to Enterococcus feacalis OG1RF	https://pubmed.ncbi.nlm.nih.gov/30695063/
+Up in N2 after exposure to Enterococcus feacalis OG1RF	https://pubmed.ncbi.nlm.nih.gov/30695063/
+Down in N2 after exposure to Enterococcus feacalis OG1RF	https://pubmed.ncbi.nlm.nih.gov/30695063/
+Up by Pyoverdine	https://pubmed.ncbi.nlm.nih.gov/29532717/
+Up in pals-22	https://pubmed.ncbi.nlm.nih.gov/30640956/
+Down in pals-22	https://pubmed.ncbi.nlm.nih.gov/30640956/
+Up by proteasome inhibitor bortezomib (BTZ) 	https://pubmed.ncbi.nlm.nih.gov/30640956/
+Down by proteasome inhibitor bortezomib (BTZ) 	https://pubmed.ncbi.nlm.nih.gov/30640956/
+Up in pals-22;pals-25	https://pubmed.ncbi.nlm.nih.gov/30640956/
+Down in pals-22;pals-25	https://pubmed.ncbi.nlm.nih.gov/30640956/
+Up in isolated intestines of ifo-1(kc2)	https://pubmed.ncbi.nlm.nih.gov/30630824/
+Down in isolated intestines of ifo-1(kc2)	https://pubmed.ncbi.nlm.nih.gov/30630824/
+Up by Bacillus thuringiensis pore forming toxin Cry5B	https://pubmed.ncbi.nlm.nih.gov/30630824/
+Down by Bacillus thuringiensis pore forming toxin Cry5B	https://pubmed.ncbi.nlm.nih.gov/30630824/
+Up in zip-3(gk3164) raised on P.aeruginosa	https://pubmed.ncbi.nlm.nih.gov/30850535/
+Up in zip-3(gk3164) raised on P.aeruginosa	https://pubmed.ncbi.nlm.nih.gov/30850535/
+Up by P. aeruginosa	https://pubmed.ncbi.nlm.nih.gov/30789901/
+Down by P. aeruginosa	https://pubmed.ncbi.nlm.nih.gov/30789901/
+Up in atf-7 on P. aeruginosa	https://pubmed.ncbi.nlm.nih.gov/30789901/
+Down in atf-7 on P. aeruginosa	https://pubmed.ncbi.nlm.nih.gov/30789901/
+Up in pmk-1 on P. aeruginosa	https://pubmed.ncbi.nlm.nih.gov/30789901/
+Down in pmk-1 on P. aeruginosa	https://pubmed.ncbi.nlm.nih.gov/30789901/
+Up specific ints-1	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Down specific ints-1	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Up specific ints-2	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Down specific ints-2	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Up specific ints-4	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Down specific ints-4	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Up specific ints-5	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Down specific ints-5	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Up specific ints-6	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Down specific ints-6	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Up specific ints-7	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Down specific ints-7	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Up specific ints-8	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Down specific ints-8	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Up specific ints-9	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Down specific ints-9	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Up specific ints-11	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Down specific ints-11	https://pubmed.ncbi.nlm.nih.gov/30807579/
+Up under dietary restrictions	https://pubmed.ncbi.nlm.nih.gov/31253655/
+Down under dietary restrictions	https://pubmed.ncbi.nlm.nih.gov/31253655/
+Up in age-1(hx546);gas-1(fc21) vs gas-1(fc21)	https://pubmed.ncbi.nlm.nih.gov/30796049/
+Down in age-1(hx546);gas-1(fc21) vs gas-1(fc21)	https://pubmed.ncbi.nlm.nih.gov/30796049/
+Up in glp-4(bn2) worms fed on E. coli HT115	https://pubmed.ncbi.nlm.nih.gov/30865620/
