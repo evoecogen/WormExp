@@ -2962,9 +2962,3 @@ UP by daf-2;rsks-1 mutant	http://www.ncbi.nlm.nih.gov/pubmed/24332851	NA
 down by daf-2;rsks-1 mutant	http://www.ncbi.nlm.nih.gov/pubmed/24332851	NA
 UP by elt-2 RNAi under Normoxia	http://www.ncbi.nlm.nih.gov/pubmed/25284791	NA
 BLMP-1 L1 targets	http://www.ncbi.nlm.nih.gov/pubmed/21177963	NA
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA

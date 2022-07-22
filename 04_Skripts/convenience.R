@@ -35,26 +35,6 @@ make_binary <- function(data = data, x = x, y = y){ # what is happening???
   return(res)
 }
 
-
-create_Upset_plot <- function(data = data, elements_of_interest = elements_of_interest, sets = sets, elements = elements){
-
-  contigs <- unique(data$sets)
-  objects <- list()
-  
-  for (i in 1:length(elements_of_interest)) {
-    objects[[i]] <- data$sets[data$elements == elements_of_interest[i]]
-  }
-  
-  names(objects) <- elements_of_interest
-  
-  combination_matrix <- 1 * sapply(objects, function(x) contigs %in% x)
-  combination_matrix <- make_comb_mat(combination_matrix)
-  
-  graph <- UpSet(combination_matrix, set_order = elements_of_interest)
-  
-  return(graph)
-}
-
 outersect <- function(x, y, ...) {
   big.vec <- c(x, y, ...)
   duplicates <- big.vec[duplicated(big.vec)]
