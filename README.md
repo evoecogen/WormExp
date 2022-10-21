@@ -1,5 +1,11 @@
 # WormExp
 
+News:
+21.10.2022: 
+In July 2022, WormExp has been updated to v2, including new gene sets which are now sorted into multiple categories to offer more options when analyzing data sets. However, a current issue inflates the output table, duplicating gene entries. A script has been provided in 04_Skripts/cleaning_ouput.R to remove duplicate gene entries from the results table. This is an intermediate solution until the issue is resolved. 
+
+
+Description:
 WormExp is a transcriptomics database for Caenorhabditis elegans (C. elegans). Here, dgene sets that have been published all over the world are collected and categorized. Updating the database is instrumental, as conducting gene enrichment analysis is an integral part for studies on C. elegans. It is therefore vital, that such a database is correctly set up and regularly updated. This GitHub repository provides documentation on the update procedure and allows updates from the community to continuously improve the database. 
 
 The repository has the following structure: 
