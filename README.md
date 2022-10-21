@@ -2,7 +2,7 @@
 
 ## News:
 ### 21.10.2022: 
-In July 2022, WormExp has been updated to v2, including new gene sets which are now sorted into multiple categories to offer more options when analyzing data sets. However, a current issue inflates the output table, duplicating gene entries. A script has been provided in 04_Skripts/cleaning_ouput.R to remove duplicate gene entries from the results table. This is an intermediate solution until the issue is resolved. 
+In July 2022, WormExp has been updated to v2, including new gene sets which are now sorted into multiple categories to offer more options when analyzing data sets. However, a current issue inflates the output table, duplicating gene entries. A script has been provided in 04_Skripts/output_cleaning.R to remove duplicate gene entries from the results table. This is an intermediate solution until the issue is resolved. 
 
 
 ## Description:
