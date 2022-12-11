@@ -56,7 +56,7 @@ data_list <- import(path = input_path, pattern = "*cleaned.txt", header = TRUE)
 # remove all columns besides Category, Term and Overlapped ID
 # keep only top 30
 cluster_binary <- list()
-for (i in 1:seq_along(data_list)) {
+for (i in seq_along(data_list)) {
   cluster_binary[[i]] <- data_list[[i]] %>%
     dplyr::arrange(FDR, decreasing = FALSE) %>%
     distinct(Term, .keep_all = TRUE) %>%   # sort out duplicates due to data sets in multiple categories
@@ -85,7 +85,7 @@ title_list <- names(cross_prod)
 
 # create list with row_order objects
 row_order_list <- list()
-for(i in 1:seq_along(cross_prod)){
+for(i in seq_along(cross_prod)){
   ht1 <- Heatmap(cross_prod[[i]],
                  cluster_rows = FALSE,
                  cluster_columns = TRUE)
@@ -95,7 +95,7 @@ for(i in 1:seq_along(cross_prod)){
 dev.off()
 
 
-for(i in 1:seq_along(cross_prod)){
+for(i in seq_along(cross_prod)){
   # save file
   png(paste(output_path, title_list[i], ".png", sep = "", collapse = NULL), width = 1200, height = 1200)
   # plot file
@@ -132,7 +132,7 @@ data_list <- import(path = input_path, pattern = "*cleaned.txt", header = TRUE)
 # filter by a category and remove all columns besides Category, Term and Overlapped ID
 # keep only top 30
 cluster_binary <- list()
-for (i in 1:seq_along(data_list)) {
+for (i in seq_along(data_list)) {
   cluster_binary[[i]] <- data_list[[i]] %>%
     filter(Category == category) %>%
     arrange(FDR, decreasing = FALSE) %>%
@@ -162,7 +162,7 @@ title_list <- names(cross_prod)
 
 # create list with row_order objects
 row_order_list <- list()
-for(i in 1:seq_along(cross_prod)){
+for(i in seq_along(cross_prod)){
   ht1 <- Heatmap(cross_prod[[i]],
                  cluster_rows = FALSE,
                  cluster_columns = TRUE)
@@ -174,7 +174,7 @@ dev.off()
 # subset category for correct naming of graphs
 category_sub <- sub("\\/.*", "", category)
 
-for(i in 1:seq_along(cross_prod)){
+for(i in seq_along(cross_prod)){
   # save file 
   png(paste(output_path, category_sub, "_", title_list[i], ".png", sep = "", collapse = NULL), width = 1200, height = 1200)
   # plot file
