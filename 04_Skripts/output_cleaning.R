@@ -19,9 +19,8 @@ library("tidyverse")
 #                                       #
 #########################################
 
-# For this script to work you need to save your WormExp database output as text file in some folder.
-# Add here the information where these file(s) can be found.
-
+# For this script to work you need to save your WormExp database output as text file in some folder. 
+# Add here the information where these file can be found.
 path <- "../../ResultsTable.txt"
 
 # specify output path
@@ -33,7 +32,7 @@ output_path <- "../../"
 #                                       #
 #########################################
 
-# This script cleanes the ResultsTable and saves it back as .csv
+# This script cleanes the ResultsTable and saves it back as .txt
 results_table <- read_delim(path)
 
 # to-do adjust counts
