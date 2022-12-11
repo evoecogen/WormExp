@@ -14,15 +14,15 @@ taxa.filter<-function(taxtab, percent.filter=percent.filter, relabund.filter=rel
   return(dataframe)
 }
 
-# returns a list with all files in this folder
+# returns a list with all files in a folder 
 import <- function(path = path, pattern = pattern, header = header) {
   # import cluster data
   temp <- list.files(path = path, pattern = pattern, full.names = TRUE)
-  data_list <- lapply(temp, function(x) read.delim(x, header = header))
+  data_list <- lapply(temp, function(x) read.delim(x, header = header, sep = ","))
   
-  # extract cluster names and name data_list
-  cluster_names <- lapply(temp, function(x) sub("\\.[[:alnum:]]+$", "", basename(as.character(x))))
-  names(data_list) <- cluster_names
+  # extract file names and name data_list
+  file_names <- lapply(temp, function(x) sub("\\.[[:alnum:]]+$", "", basename(as.character(x))))
+  names(data_list) <- file_names
   return(data_list)
 }
 
