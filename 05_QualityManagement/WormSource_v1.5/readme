@@ -1,0 +1,3 @@
+The "WormExp" is the webapp, copy to tomcat webapp directory
+
+Before deploy the webapp, please first run "java -classpath test.jar com.dem.test.HiServer" at WormSource.

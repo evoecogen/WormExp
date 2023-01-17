@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE tiles-definitions PUBLIC
+"-//Apache Software Foundation//DTD Tiles Configuration 1.1//EN"
+"http://jakarta.apache.org/struts/dtds/tiles-config_1_1.dtd">
+
+<tiles-definitions>
+  <!--templates-->
+  <definition name="layout.template" path="/layout.jsp">
+    <put name="header" value="/header.jsp"/>
+    <put name="footer" value="/footer.jsp"/>
+  </definition>
+  <definition name="begin.page" extends="layout.template">
+    <put name="body" value="begin.tile"/>
+    <put name="pageName" value="begin"/>
+  </definition>
+  <definition name="table.page" extends="layout.template">
+    <put name="body" value="table.tile"/>
+    <put name="pageName" value="table"/>
+  </definition>
+   <definition name="stable.page" extends="layout.template">
+    <put name="body" value="stable.tile"/>
+    <put name="pageName" value="searchtable"/>
+  </definition>
+   <definition name="showid.page" extends="layout.template">
+    <put name="body" value="showid.tile"/>
+    <put name="pageName" value="showid"/>
+  </definition>
+  <definition name="manual.page" extends="layout.template">
+    <put name="body" value="manual.tile"/>
+    <put name="pageName" value="manual"/>
+  </definition>
+  <definition name="begin.tile" path="/begin.jsp"/>
+  <definition name="showid.tile" path="/showid.jsp"/>
+  <definition name="table.tile" path="/table.jsp"/>
+  <definition name="stable.tile" path="/searchtable.jsp"/>
+  <definition name="manual.tile" path="/manual.jsp"/>
+</tiles-definitions>
+
+
